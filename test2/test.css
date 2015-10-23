@@ -27,3 +27,39 @@ div.pane_parent {
     height: 550px;
     display: flex;
 }
+
+a.joinus {
+    text-align: center;
+    margin: 5px;
+    display: inline-block;
+    padding: 70px 80px 70px 80px;
+    font-size: 30px;
+    border-radius: 8px;
+    border: solid 2px white;
+    font-weight: bold;
+    background-color: #FF5722;
+    text-decoration: none;
+    color: #ffffff;
+}
+
+p.overlay_text {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-size: 15px;
+    text-align: center;
+    width: inherit;
+    background-color: rgba(0, 0, 0, 0.35);
+    color: #FFFFFF;
+}
+
+a.joinus:hover, a.joinus:active {
+    text-align: center;
+    display: inline-block;
+    font-weight: bold;
+    margin: 5px;
+    border-radius: 8px;
+    background-color: #FF9752;
+    text-decoration: none;
+    color: #ffffff;
+}
+
