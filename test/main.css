@@ -639,10 +639,6 @@ textarea:focus {
     display: none;
 }
 
-.container {
-    max-width: 1170px;
-}
-
 .dark-color {
     color: #343434;
 }
