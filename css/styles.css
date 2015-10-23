@@ -112,9 +112,10 @@ div.event_img {
     background: url('../images/image.jpg');
 }
 
-.carousel {
-    height: 200px;
-    max-height: 200px;
+.sponsors {
+    width: 100%;
+    float: left;
+    text-align: center;
 }
 
 div.text_container {
