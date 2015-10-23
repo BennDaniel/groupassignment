@@ -1,6 +1,5 @@
 #banner {
     background-color: black;
-    color: white;
     text-align: center;
     padding: 5px;
 }
@@ -8,7 +7,6 @@
 #left_pane {
     font-size: 50px;
     line-height: 30px;
-    background-color: #eeeeee;
     flex: 1;
     width: 500px;
 }
@@ -16,17 +14,16 @@
 #right_pane {
     flex: 1;
     width: 500px;
-
 }
 
 #sponsors {
     background-color: black;
-    color: white;
     clear: both;
     text-align: center;
     padding: 5px;
 }
 
-div.parent {
+div.pane_parent {
+    height: 550px;
     display: flex;
 }

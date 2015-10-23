@@ -87,7 +87,7 @@ div.contact_info {
 }
 
 div.content {
-    display: inline-block;
+    /*display: inline-block;*/
     margin: 10px 48px 10px 28px;
     padding: 0px 28px 16px 28px;
     border-radius: 25px;
@@ -196,8 +196,8 @@ a.address {
 }
 
 #wrapper {
-    display: inline-block;
-    width: 700px;
+    width: 600px;
+    margin: auto;
 }
 
 #galleria {

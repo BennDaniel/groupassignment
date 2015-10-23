@@ -76,7 +76,7 @@ div.events_ > div {
 }
 
 .event {
-    display: inline-block;
+    margin: auto;
     width: 200px;
     height: 200px;
 }
