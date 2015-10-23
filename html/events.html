@@ -3,8 +3,88 @@
 <head>
     <meta charset="UTF-8">
     <title>Events</title>
+    <link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Roboto">
+    <link rel="stylesheet" type="text/css" href="../css/main.css">
 </head>
 <body>
+
+<!--Todo display any upcoming concerts or events and link to ticket sales-->
+<!--Todo -->
+
+<div class="parent">
+    <img alt="background_image" src="../images/image.jpg" class="blur">
+
+    <div class="container">
+        <div>
+            <ul class="tabs">
+                <li><a class="menu_item" href="../index.html">Home</a></li>
+                <li><a class="menu_item" href="events.html" id="current">News</a></li>
+                <li><a class="menu_item" href="gallery.html">Gallery</a></li>
+                <li><a class="menu_item" href="people.html">People</a></li>
+                <li><a class="menu_item" href="forms.html">Forms</a></li>
+                <li><a class="menu_item" href="supporters.html">Supporters</a></li>
+                <li><a class="menu_item" href="about.html">About Us</a></li>
+            </ul>
+        </div>
+
+        <div class="content" id="events_container">
+            <div id="wrapper">
+                <div id="row">
+                    <div id="events">
+                        <audio controls>
+                            <source src="../data/audio/ambient.mp3" type="audio/mpeg">
+                            Not supported
+                        </audio>
+                        <p>Testign something here plz work</p>
+                    </div>
+
+                    <div id="facebook">
+                        <!-- Todo facebook page news feed-->
+                        <div id="fb-root"></div>
+                        <script>(function (d, s, id) {
+                            var js, fjs = d.getElementsByTagName(s)[0];
+                            if (d.getElementById(id)) return;
+                            js = d.createElement(s);
+                            js.id = id;
+                            js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.4&appId=724929920903067";
+                            fjs.parentNode.insertBefore(js, fjs);
+                        }(document, 'script', 'facebook-jssdk'));
+                        //Todo with content written to rank well on search engines and a clear purpose (goal-driven)
+                        </script>
+
+                        <div class="fb-page" data-href="https://www.facebook.com/nqorchestra" data-width="500"
+                             data-height="800"
+                             data-small-header="false" data-adapt-container-width="true" data-hide-cover="false"
+                             data-show-facepile="true"
+                             data-show-posts="true">
+                            <div class="fb-xfbml-parse-ignore">
+                                <blockquote cite="https://www.facebook.com/nqorchestra"><a
+                                        href="https://www.facebook.com/nqorchestra">Barrier
+                                    Reef Orchestra</a></blockquote>
+                            </div>
+                        </div>
+
+                        <!-- Todo facebook like and share button
+                        <div id="fb-root"></div>
+                        <script>(function (d, s, id) {
+                        var js, fjs = d.getElementsByTagName(s)[0];
+                        if (d.getElementById(id)) return;
+                        js = d.createElement(s);
+                        js.id = id;
+                        js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.4&appId=1619141028352444";
+                        fjs.parentNode.insertBefore(js, fjs);
+                        }(document, 'script', 'facebook-jssdk'));</script>
+                        <div class="fb-like" data-href="https://www.facebook.com/nqorchestra" data-layout="standard" data-action="like"
+                        data-show-faces="true" data-share="true"></div>-->
+                    </div>
+                </div>
+            </div>
+
+
+        </div>
+    </div>
+</div>
+
 
 </body>
 </html>

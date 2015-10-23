@@ -1,3 +1,70 @@
-div.test{
-
+div.banner {
+    background-color: #FFFFFF;
+    margin: auto;
+    width: 70%;
+    padding: 10px;
+    text-align: center;
+    display: table;
 }
+
+img.banner_image {
+    height: 100px;
+    width: 152px;
+    margin-right: 5px;
+    margin-bottom: 5px;
+}
+
+p.banner_text {
+    font-size: 30px;
+    margin: auto;
+    display: table-cell;
+    vertical-align: middle;
+}
+
+div.toolbar_container {
+    background-color: #000000;
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 2;
+    height: 62px;
+    width: 100%;
+    text-align: center;
+}
+
+div.tabs_container {
+    height: 62px;
+    display: inline-block;
+    margin: auto;
+}
+
+a.menu_item:link, a.menu_item:visited {
+    display: block;
+    width: auto;
+    color: #FFFFFF;
+    text-align: center;
+    padding: 22px 8px 22px 8px;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
+a.menu_item:hover, a.menu_item:active {
+    font-weight: bold;
+    padding: 22px 8px 22px 8px;
+    background-color: #444444;
+}
+
+ul.tabs {
+    list-style-type: none;
+    margin: 0;
+    overflow: hidden;
+}
+
+ul.tabs > li {
+    display: inline;
+    float: left;
+}
+
+
+
+

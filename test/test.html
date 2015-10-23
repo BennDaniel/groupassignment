@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Test</title>
+
+    <link rel="stylesheet" href="main.css" type="text/css">
+    <link rel="stylesheet" href="slick.css" type="text/css">
+    <script type="text/javascript" src="jquery-1.11.1.min.js"></script>
+    <script type="text/javascript" src="load_team_members.js"></script>
+</head>
+<body>
+<div id="team_div"></div>
+
+<script type="text/javascript">
+
+    (function ($) {
+        console.log('step1');
+        $("#team_div").load("team.html #team", loadTeamMembers);
+    })(jQuery);
+</script>
+</body>
+</html>
