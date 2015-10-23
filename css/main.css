@@ -87,7 +87,6 @@ div.contact_info {
 }
 
 div.content {
-
     display: inline-block;
     margin: 10px 48px 10px 28px;
     padding: 0px 28px 16px 28px;
@@ -119,8 +118,7 @@ div.parent {
     top: 0;
     left: 0;
     z-index: 2;
-    min-width: 100%;
-    min-height: 100%;
+    width: 100%;
     text-align: center;
     color: #ffffff;
     background: rgba(0, 0, 0, 0.72);
@@ -198,7 +196,7 @@ a.address {
 }
 
 #wrapper {
-    display: table;
+    display: inline-block;
     width: 700px;
 }
 

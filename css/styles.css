@@ -21,7 +21,7 @@ p.banner_text {
     vertical-align: middle;
 }
 
-div.toolbar_container {
+div.toolbar_ {
     background-color: #000000;
     position: absolute;
     top: 0;
@@ -32,7 +32,7 @@ div.toolbar_container {
     text-align: center;
 }
 
-div.tabs_container {
+div.tabs_ {
     height: 62px;
     display: inline-block;
     margin: auto;
@@ -64,6 +64,33 @@ ul.tabs > li {
     display: inline;
     float: left;
 }
+
+div.events_ {
+    display: block;
+    margin: auto;
+    width: 90%;
+}
+
+div.events_ > div {
+    display: table-cell;
+}
+
+.event {
+    display: inline-block;
+    width: 200px;
+    height: 200px;
+}
+
+img.event_img {
+    display: inline-block;
+    top: 0;
+    left: 0;
+    margin-left: auto;
+    margin-right: auto;
+    width: 500px;
+    height: 500px;
+}
+
 
 
 
