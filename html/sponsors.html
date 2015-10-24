@@ -78,20 +78,13 @@
 
     (function () {
         console.log('loading sponsors');
-        //Todo var div = document.getElementById("sponsor_div");
         var div = document.getElementById("container");
         var sponsors = $(div).find("#sponsors")[0];
-//        console.dir(sponsors);
 
         team_members.forEach(function (item) {
             var div0 = document.createElement("div");
-            div0.class = "col-md-12";
-
             var div1 = document.createElement("div");
-            div1.class = "profile";
-
             var div2 = document.createElement("div");
-            div2.class = "profile-photo";
 
             var a = document.createElement("a");
             a.onclick = function () {
@@ -99,7 +92,6 @@
             };
 
             var div3 = document.createElement("div");
-            div3.class = "director-title";
 
             var image = document.createElement("img");
             image.src = item.image;
@@ -121,8 +113,8 @@
             div0.appendChild(div1);
 
             div0.style.display = "inline-block";
-            div0.style.marginLeft = 10;
-            div0.style.marginRight = 10;
+            div0.style.marginLeft = '5px';
+            div0.style.marginRight = '5px';
             sponsors.appendChild(div0);
         });
     })();

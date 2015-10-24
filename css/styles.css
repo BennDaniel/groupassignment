@@ -118,6 +118,16 @@ div.event_img {
     text-align: center;
 }
 
+h2.position {
+    text-align: center;
+}
+
+#conductors, #players {
+    width: 100%;
+    float: left;
+    text-align: center;
+}
+
 div.text_container {
     position: absolute;
     bottom: 0;
@@ -125,6 +135,130 @@ div.text_container {
     width: 400px;
     font-weight: bold;
     color: #fff;
+}
+
+#banner {
+    background-color: black;
+    text-align: center;
+    padding: 5px;
+}
+
+#left_pane {
+    flex: 1;
+    width: 500px;
+    height: 500px;
+}
+
+#right_pane {
+    flex: 1;
+    width: 500px;
+    height: 400px;
+}
+
+#sponsors {
+    background-color: black;
+    clear: both;
+    text-align: center;
+    padding: 5px;
+}
+
+audio.media {
+    display: block;
+}
+
+div.pane_parent {
+    height: 550px;
+    display: flex;
+}
+
+a.joinus {
+    text-align: center;
+    margin: 20px 5px 5px 5px;
+    display: inline-block;
+    padding: 50px 80px 50px 80px;
+    font-size: 30px;
+    border-radius: 8px;
+    border: solid 2px white;
+    font-weight: bold;
+    background-color: #FF5722;
+    text-decoration: none;
+    color: #ffffff;
+}
+
+a.joinus_with_img {
+    margin: 5px;
+    width: 255px;
+    height: 160px;
+    position: relative;
+    opacity: 1;
+    z-index: 0;
+    clear: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+img.joinus_event_img:hover {
+    opacity: 0.7;
+}
+
+img.event_img:hover {
+    opacity: 0.7;
+}
+
+img.joinus_event_img {
+    border-radius: 8px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 255px;
+    height: 160px;
+    z-index: 1;
+    display: block;
+    flex-shrink: 0;
+    overflow: hidden;
+    object-position: center;
+    object-fit: cover;
+}
+
+p.overlay_text {
+    position: absolute;
+    right: 0;
+    left: 0;
+    bottom: 0;
+    z-index: 2;
+    display: inline-block;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-size: 20px;
+    text-align: center;
+    width: 500px;
+    background-color: rgba(0, 0, 0, 0.9);
+    color: #FFFFFF;
+}
+
+p.joinus_overlay_text {
+    position: absolute;
+    right: 0;
+    left: 0;
+    bottom: 0;
+    z-index: 2;
+    display: inline-block;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-size: 20px;
+    text-align: center;
+    width: inherit;
+    background-color: rgba(0, 0, 0, 0.9);
+    color: #FFFFFF;
+}
+
+a.joinus:hover, a.joinus:active {
+    text-align: center;
+    font-weight: bold;
+    border-radius: 8px;
+    background-color: #FF9752;
+    text-decoration: none;
+    color: #ffffff;
 }
 
 
