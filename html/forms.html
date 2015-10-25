@@ -33,6 +33,45 @@ o you need to use JavaScript to validate your form data prior to form submission
 
         <div class="content">
 
+            <form>
+                Name:<br>
+                <input type="text" name="name">
+                <br>
+
+                Please place me/us on the benefactor roll as:<br>
+                <input type="text" name="role">
+                <br>
+                Or be anonymous <input type="radio" name="transaction_type" value="anon">
+
+                <br>
+                Mailing Address:<br>
+                <input type="text" name="address">
+                <br>
+
+                Email:<br>
+                <input type="email" name="email">
+                <br>
+
+                Phone:<br>
+                <input type="number" name="phone">
+                <br>
+
+                Mobile:<br>
+                <input type="number" name="mobile">
+                <br>
+
+
+                I want to contribute:<br>
+                <input type="number" name="amount" min="0.01">
+                <br>
+
+                By
+                <input type="radio" name="transaction_type" value="eftpos" checked> EFTPOS
+                <input type="radio" name="transaction_type" value="cheque"> Cheque
+                <input type="radio" name="transaction_type" value="cash"> Cash
+                <br>
+
+            </form>
 
         </div>
     </div>
