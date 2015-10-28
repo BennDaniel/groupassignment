@@ -2,6 +2,258 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8c639ca1-1316-4671-ade1-ab37df8c4c06" name="Default" comment="Galleria multiple album issue fixed">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/events/1812.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/gallery/slavonicswoon/2008-BRO-Slavonic-Swoon-100.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/gallery/slavonicswoon/2008-BRO-Slavonic-Swoon-101.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/gallery/slavonicswoon/2008-BRO-Slavonic-Swoon-107.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/gallery/slavonicswoon/2008-BRO-Slavonic-Swoon-115.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/gallery/slavonicswoon/2008-BRO-Slavonic-Swoon-14.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/gallery/slavonicswoon/2008-BRO-Slavonic-Swoon-17.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/gallery/slavonicswoon/2008-BRO-Slavonic-Swoon-22.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/gallery/slavonicswoon/2008-BRO-Slavonic-Swoon-23.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/gallery/slavonicswoon/2008-BRO-Slavonic-Swoon-28.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/gallery/slavonicswoon/2008-BRO-Slavonic-Swoon-3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/people/2010-ji-won-kim.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/events/2015-World-Music-Large.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/events/2015-World-Music.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/events/2015-World-Music.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/sponsors/ACVClogo.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/SiteImages/ACVCnewlogo.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/events/AFCM01.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/sponsors/AFCMlogo-25th.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/SiteImages/AFCMlogo.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/AGM2015Notices.pdf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/people/Adam Lopez.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/people/Adam-Lopez.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/BRO March concert educational resource.pdf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/BRO Repertoire.doc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/SiteImages/BROheader.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/SiteImages/BROheader.psd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/SiteImages/BROpageheader.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/SiteImages/BROpageheader.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/SiteImages/BROpageheader.psd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/SiteImages/BROseahorse.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/gallery/instruments/Background_BRO_056.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/gallery/instruments/Background_BRO_107.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/gallery/instruments/Background_BRO_DSC0592(1).jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/gallery/instruments/Background_BRO_DSC0592.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/gallery/instruments/Background_BRO_DSC0683.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/gallery/instruments/Background_BRO_DSC0796.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/gallery/instruments/Background_BRO_DSC0803.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/people/BlairHarris250.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CP1406-2015-2-GroupProject.pdf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/people/David Hudson.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/people/David-Hudson.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/people/DavidLawrence250.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/people/Domenico Taraborrelli .jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/people/Domenico-Taraborrelli.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/events/HelenLand.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/gallery/hotsummernight2008/Hot_Summer_Night-177.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/gallery/hotsummernight2008/Hot_Summer_Night-179.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/gallery/hotsummernight2008/Hot_Summer_Night-181.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/gallery/hotsummernight2008/Hot_Summer_Night-185.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/gallery/hotsummernight2008/Hot_Summer_Night-191.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/gallery/hotsummernight2008/Hot_Summer_Night-218.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/gallery/hotsummernight2008/Hot_Summer_Night-223.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/gallery/hotsummernight2008/Hot_Summer_Night-236.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/gallery/hotsummernight2008/Hot_Summer_Night-240.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/gallery/hotsummernight2008/Hot_Summer_Night-247.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/gallery/hotsummernight2008/Hot_Summer_Night-257.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/gallery/hotsummernight2008/Hot_Summer_Night-337.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/gallery/hotsummernight2008/Hot_Summer_Night-341.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/gallery/hotsummernight2008/Hot_Summer_Night-365.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/gallery/hotsummernight2008/Hot_Summer_Night-7.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/gallery/hotsummernight2008/Hot_Summer_Night_106.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/gallery/hotsummernight2008/Hot_Summer_Night_107.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/gallery/hotsummernight2008/Hot_Summer_Night_117.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/gallery/hotsummernight2008/Hot_Summer_Night_12.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/gallery/hotsummernight2008/Hot_Summer_Night_120.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/gallery/hotsummernight2008/Hot_Summer_Night_128.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/gallery/hotsummernight2008/Hot_Summer_Night_13.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/gallery/hotsummernight2008/Hot_Summer_Night_133.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/gallery/hotsummernight2008/Hot_Summer_Night_17.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/gallery/hotsummernight2008/Hot_Summer_Night_29.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/gallery/hotsummernight2008/Hot_Summer_Night_38.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/gallery/hotsummernight2008/Hot_Summer_Night_47.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/gallery/hotsummernight2008/Hot_Summer_Night_54.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/gallery/hotsummernight2008/Hot_Summer_Night_56.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/gallery/hotsummernight2008/Hot_Summer_Night_66.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/gallery/hotsummernight2008/Hot_Summer_Night_87.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/gallery/hotsummernight2008/Hot_Summer_Night_88.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/SiteImages/Icon_" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/gallery/Icon_" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/gallery/hotsummernight2008/Icon_" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/gallery/instruments/Icon_" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/gallery/lastnightofproms/Icon_" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/gallery/slavonicswoon/Icon_" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/people/Icon_" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/random1/Icon_" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/randomhome/Icon_" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/sponsors/Icon_" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/gallery/instruments/Instruments_Bassoon.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/gallery/instruments/Instruments_Guitar_191.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/gallery/instruments/Instruments_Harp_106.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/gallery/instruments/Instruments_Horns_107.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/gallery/instruments/Instruments_Keyboard_DSC0570.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/gallery/instruments/Instruments_Oboe_DSC0588.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/gallery/instruments/Instruments_Strings_257.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/gallery/instruments/Instruments_Strings_DSC0375.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/gallery/instruments/Instruments_Strings_DSC0587.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/gallery/instruments/Instruments_Trumpets.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/gallery/instruments/Instruments_Trumpets_Tuba_13.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/gallery/instruments/Instruments_Violin_DSC0003.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/gallery/instruments/Instruments_Violins_88.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/gallery/instruments/Instruments_Wind_DSC0377.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/gallery/instruments/Instruments_Wind_DSC0424.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/gallery/instruments/Instruments_oboe_DSC0422.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/people/JamesMorrison250.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/people/JenniferBradstreet200.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/people/JiWonKim200.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/events/LNAPtitle300.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/events/LNAPtitle500.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/SiteImages/LOGOS.doc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/people/LeahLi200.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/people/LeahLi250.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/people/Mario-Dobernig-2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/people/MarioDobernig250.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/people/MarkShiell01.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/people/MarkShiell250.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/events/Masterworks-A4B.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/events/MasterworksRose300.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/events/MasterworksTitle300.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/events/Masterworksbackground.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/SiteImages/NQEIlogo.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/gallery/instruments/Players_Conductor-001.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/gallery/instruments/Players_Conductor-2008-14.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/gallery/instruments/Players_Conductor-2008-28.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/gallery/instruments/Players_SeanOBoyle-2008-337.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/gallery/instruments/Players_SeanOBoyle_DSC0666.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/sponsors/QNICKEL.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/people/RaymondYong200.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/people/RebeccaChan250.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/sponsors/SOE-new-logo.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/gallery/instruments/Sax_DSC9495.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/people/SeanOBoyle234.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/people/Stefan Cassomenos01.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/people/StefanCassomenos250.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/SiteImages/TCCcolour150193.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/SiteImages/TCCtext100.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/SiteImages/TCCtext150193.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/SiteImages/TCCtext150193.psd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/SiteImages/TCMC150100.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/SiteImages/TCMCtrans10067.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/events/TSV Masterworks A7.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/events/TShop300web.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/events/Theatre_2015_World Music Concert_A0.pdf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/SiteImages/Thumbs.db" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/events/Thumbs.db" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/gallery/hotsummernight2008/Thumbs.db" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/gallery/instruments/Thumbs.db" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/gallery/lastnightofproms/Thumbs.db" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/gallery/slavonicswoon/Thumbs.db" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/sponsors/Thumbs.db" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/people/YoshikaMasuda250.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/people/alan-web.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/application-form-web.pdf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/sponsors/asap-logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/randomhome/background_bro_01.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/randomhome/background_bro_02.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/randomhome/background_bro_03.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/randomhome/background_bro_04.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/randomhome/background_bro_05.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/randomhome/background_bro_06.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/randomhome/background_bro_07.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/randomhome/background_bro_08.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/people/blair-harris-cello.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/sponsors/bunnings-warehouse-web.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/people/carol-web.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/sponsors/cg-logo.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/sponsors/cowboys-logo-web.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/people/david-lawrence-conductor-web.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/people/donna-web.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/random1/instruments_bassoon.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/random1/instruments_guitar_191.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/random1/instruments_harp_106.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/random1/instruments_horns_107.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/random1/instruments_keyboard_dsc0570.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/random1/instruments_oboe_dsc0422.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/random1/instruments_oboe_dsc0588.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/random1/instruments_sax_dsc9495.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/random1/instruments_strings_257.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/random1/instruments_strings_dsc0375.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/random1/instruments_strings_dsc0587.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/random1/instruments_trumpets.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/random1/instruments_trumpets_tuba_13.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/random1/instruments_violin_dsc0003.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/random1/instruments_violins_88.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/random1/instruments_wind_dsc0377.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/random1/instruments_wind_dsc0424.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/people/jacinta-web.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/people/jenny-web.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/people/ji-won-kim-200.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/sponsors/kaptivmedialogo-trans.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/gallery/lastnightofproms/last_night_of_the_proms_bro_dsc0001.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/gallery/lastnightofproms/last_night_of_the_proms_bro_dsc0011.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/gallery/lastnightofproms/last_night_of_the_proms_bro_dsc0014.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/gallery/lastnightofproms/last_night_of_the_proms_bro_dsc0025.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/gallery/lastnightofproms/last_night_of_the_proms_bro_dsc0067.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/gallery/lastnightofproms/last_night_of_the_proms_bro_dsc0082.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/gallery/lastnightofproms/last_night_of_the_proms_bro_dsc0103.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/gallery/lastnightofproms/last_night_of_the_proms_bro_dsc0331.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/gallery/lastnightofproms/last_night_of_the_proms_bro_dsc0373.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/gallery/lastnightofproms/last_night_of_the_proms_bro_dsc0375.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/gallery/lastnightofproms/last_night_of_the_proms_bro_dsc0377.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/gallery/lastnightofproms/last_night_of_the_proms_bro_dsc0422.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/gallery/lastnightofproms/last_night_of_the_proms_bro_dsc0424.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/gallery/lastnightofproms/last_night_of_the_proms_bro_dsc0442.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/gallery/lastnightofproms/last_night_of_the_proms_bro_dsc0550.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/gallery/lastnightofproms/last_night_of_the_proms_bro_dsc0552.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/gallery/lastnightofproms/last_night_of_the_proms_bro_dsc0562.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/gallery/lastnightofproms/last_night_of_the_proms_bro_dsc0566.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/gallery/lastnightofproms/last_night_of_the_proms_bro_dsc0567.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/gallery/lastnightofproms/last_night_of_the_proms_bro_dsc0592.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/gallery/lastnightofproms/last_night_of_the_proms_bro_dsc0679.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/gallery/lastnightofproms/last_night_of_the_proms_bro_dsc0683.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/gallery/lastnightofproms/last_night_of_the_proms_bro_dsc0686.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/gallery/lastnightofproms/last_night_of_the_proms_bro_dsc0692.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/gallery/lastnightofproms/last_night_of_the_proms_bro_dsc0693.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/gallery/lastnightofproms/last_night_of_the_proms_bro_dsc0749.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/gallery/lastnightofproms/last_night_of_the_proms_bro_dsc0798.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/sponsors/logo-col-slogan-web-250w.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/sponsors/logo-on-white-slogan.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/SiteImages/logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/north-queensland-orchestra-benefactor-form.pdf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/nqei-rules-2010.pdf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/events/peter_wolf.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/people/players_conductor-001.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/people/players_conductor-2008-28.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/people/players_seanoboyle_dsc0666.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/events/potter01.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/people/profile_rebecca_chan.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/sponsors/racq-logo-web.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/sponsors/racq-logo.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/people/richard-mcintyre01.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/people/richard-mcintyre02.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/sponsors/rsl-qld-web.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/people/sal photo.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/events/sor200.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/people/stephen-web.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/sponsors/sturt-business-centre-logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/sponsors/the-keyboard-shop-web.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/sponsors/ticketshop_logo.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/sponsors/ticketshop_logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/SiteImages/townsville-council-logo.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/sponsors/townsville-council-logo.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/BROabout.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/BROcontact.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/BROgallery.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/BROnews.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/BROpastevents.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/BROpeople.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/BROsupporters.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/index.htm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/html/contact_us.html" afterPath="$PROJECT_DIR$/html/contact_us.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/html/forms.html" afterPath="$PROJECT_DIR$/html/forms.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/html/gallery.html" afterPath="$PROJECT_DIR$/html/gallery.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
@@ -26,15 +278,55 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="gallery.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="gallery.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/html/gallery.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.7093675">
-              <caret line="100" column="0" selection-start-line="100" selection-start-column="0" selection-end-line="100" selection-end-column="0" />
+            <state vertical-scroll-proportion="-16.809525">
+              <caret line="91" column="41" selection-start-line="91" selection-start-column="41" selection-end-line="91" selection-end-column="41" />
               <folding>
                 <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="contact_us.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/html/contact_us.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-18.071428">
+              <caret line="23" column="7" selection-start-line="23" selection-start-column="7" selection-end-line="23" selection-end-column="7" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="about.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/html/about.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-11.0">
+              <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="forms.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/html/forms.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.31405565">
+              <caret line="51" column="36" selection-start-line="51" selection-start-column="36" selection-end-line="51" selection-end-column="36" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="contact_old.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/html/contact_old.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-4.714286">
+              <caret line="6" column="4" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="66" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -88,11 +380,11 @@
         <option value="$PROJECT_DIR$/css/styles.css" />
         <option value="$PROJECT_DIR$/html/sponsors.html" />
         <option value="$PROJECT_DIR$/html/contact_old.html" />
-        <option value="$PROJECT_DIR$/html/contact_us.html" />
-        <option value="$PROJECT_DIR$/html/forms.html" />
         <option value="$PROJECT_DIR$/html/events.html" />
         <option value="$PROJECT_DIR$/css/main.css" />
         <option value="$PROJECT_DIR$/html/gallery.html" />
+        <option value="$PROJECT_DIR$/html/contact_us.html" />
+        <option value="$PROJECT_DIR$/html/forms.html" />
       </list>
     </option>
   </component>
@@ -163,6 +455,20 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="groupassignment" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="groupassignment" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="html" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -362,7 +668,13 @@
       <option name="project" value="LOCAL" />
       <updated>1446056226412</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="Galleria multiple album issue fixed">
+      <created>1446056475760</created>
+      <option name="number" value="00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1446056475760</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -373,17 +685,14 @@
     <editor active="true" />
     <layout>
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.16805913" sideWeight="0.8055556" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.17255785" sideWeight="0.8055556" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32965517" sideWeight="0.5012854" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32965517" sideWeight="0.49871466" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.17212543" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24204244" sideWeight="0.19444445" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -393,9 +702,12 @@
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
@@ -459,7 +771,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -547,13 +858,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.2690882">
           <caret line="11" column="7" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/html/about.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-10.214286">
-          <caret line="13" column="4" selection-start-line="13" selection-start-column="4" selection-end-line="13" selection-end-column="4" />
         </state>
       </provider>
     </entry>
@@ -720,7 +1024,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="91" column="14" selection-start-line="91" selection-start-column="14" selection-end-line="91" selection-end-column="14" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -728,31 +1031,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="8" column="7" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/html/contact_old.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="4" column="29" selection-start-line="4" selection-start-column="29" selection-end-line="4" selection-end-column="29" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/html/contact_us.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-3.9285715">
-          <caret line="5" column="7" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/html/forms.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="3" column="26" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -768,18 +1046,49 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.2159091">
           <caret line="184" column="1" selection-start-line="184" selection-start-column="1" selection-end-line="184" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/html/gallery.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.7093675">
-          <caret line="100" column="0" selection-start-line="100" selection-start-column="0" selection-end-line="100" selection-end-column="0" />
+        <state vertical-scroll-proportion="-16.809525">
+          <caret line="91" column="41" selection-start-line="91" selection-start-column="41" selection-end-line="91" selection-end-column="41" />
           <folding>
             <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/contact_old.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-4.714286">
+          <caret line="6" column="4" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="66" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/contact_us.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-18.071428">
+          <caret line="23" column="7" selection-start-line="23" selection-start-column="7" selection-end-line="23" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/about.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-11.0">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/forms.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.31405565">
+          <caret line="51" column="36" selection-start-line="51" selection-start-column="36" selection-end-line="51" selection-end-column="36" />
+          <folding />
         </state>
       </provider>
     </entry>
