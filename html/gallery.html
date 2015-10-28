@@ -31,107 +31,75 @@
             </ul>
         </div>
 
-        <button onclick="switchItems();">Switch</button>
+        <button onclick="switchGallaries()">Switch</button>
+
         <div class="content" id="container">
-            <div id="piccontent_1" class="piccontent">
-                <div id="galleria_1" style="height: 400px; width: 400px">
-                    <!--<img src="images/gallery/facility/facility1.jpg" data-title="Female Boxing" data-description="Hit fast, hit hard">-->
+            <div id="piccontent_1"
+                 style="left: 0;top: 0;position:absolute; height: 750px; width: 750px;">
+                <div id="galleria" style="left: 0;top: 0;position:absolute; height: 750px; width: 750px">
                 </div>
-                <script>
-                    Galleria.loadTheme('../js/galleria.classic.min.js');
-                    Galleria.run('#galleria_1');
-                </script>
             </div>
-
-            <div id="piccontent_2" class="piccontent">
-                <div id="galleria_2" style="height: 400px; width: 400px">
-                    <!--<img src="images/gallery/training/training1.jpg" data-title="Female Boxing" data-description="Hit fast, hit hard">-->
-                </div>
-                <script>
-                    Galleria.loadTheme('../js/galleria.classic.min.js');
-                    Galleria.run('#galleria_2');
-                </script>
-            </div>
-
-
         </div>
     </div>
 </div>
 
 <script>
+    var visble = 1;
+
     var images = [
-        "../data/gallery/hotsummernight2008/Hot_Summer_Night-7.jpg",
-        "../data/gallery/hotsummernight2008/Hot_Summer_Night-177.jpg",
-        "../data/gallery/hotsummernight2008/Hot_Summer_Night_17.jpg",
-        "../data/gallery/hotsummernight2008/Hot_Summer_Night_29.jpg",
-        "../data/gallery/hotsummernight2008/Hot_Summer_Night_47.jpg",
-        "../data/gallery/hotsummernight2008/Hot_Summer_Night_88.jpg",
-        "../data/gallery/hotsummernight2008/Hot_Summer_Night_87.jpg",
-        "../data/gallery/hotsummernight2008/Hot_Summer_Night-218.jpg"
+        {image: "../data/gallery/hotsummernight2008/Hot_Summer_Night-7.jpg"},
+        {image: "../data/gallery/hotsummernight2008/Hot_Summer_Night-177.jpg"},
+        {image: "../data/gallery/hotsummernight2008/Hot_Summer_Night_17.jpg"},
+        {image: "../data/gallery/hotsummernight2008/Hot_Summer_Night_29.jpg"},
+        {image: "../data/gallery/hotsummernight2008/Hot_Summer_Night_47.jpg"},
+        {image: "../data/gallery/hotsummernight2008/Hot_Summer_Night_88.jpg"},
+        {image: "../data/gallery/hotsummernight2008/Hot_Summer_Night_87.jpg"},
+        {image: "../data/gallery/hotsummernight2008/Hot_Summer_Night-218.jpg"}
     ];
 
     var images1 = [
-        "../data/gallery/hotsummernight2008/Hot_Summer_Night-247.jpg",
-        "../data/gallery/hotsummernight2008/Hot_Summer_Night-223.jpg",
-        "../data/gallery/hotsummernight2008/Hot_Summer_Night_54.jpg",
-        "../data/gallery/hotsummernight2008/Hot_Summer_Night_107.jpg",
-        "../data/gallery/hotsummernight2008/Hot_Summer_Night_47.jpg",
-        "../data/gallery/hotsummernight2008/Hot_Summer_Night_128.jpg",
-        "../data/gallery/hotsummernight2008/Hot_Summer_Night_133.jpg",
-        "../data/gallery/hotsummernight2008/Hot_Summer_Night-218.jpg"
+        {image: "../data/gallery/hotsummernight2008/Hot_Summer_Night-247.jpg"},
+        {image: "../data/gallery/hotsummernight2008/Hot_Summer_Night-223.jpg"},
+        {image: "../data/gallery/hotsummernight2008/Hot_Summer_Night_54.jpg"},
+        {image: "../data/gallery/hotsummernight2008/Hot_Summer_Night_107.jpg"},
+        {image: "../data/gallery/hotsummernight2008/Hot_Summer_Night_47.jpg"},
+        {image: "../data/gallery/hotsummernight2008/Hot_Summer_Night_128.jpg"},
+        {image: "../data/gallery/hotsummernight2008/Hot_Summer_Night_133.jpg"},
+        {image: "../data/gallery/hotsummernight2008/Hot_Summer_Night-218.jpg"}
     ];
-
-    (function () {
-        var galleria = document.getElementById('galleria_1');
-        var galleria2 = document.getElementById('galleria_2');
-        images.forEach(function (image) {
-            var a = document.createElement('a');
-            var img = document.createElement('img');
-            a.href = image;
-            img.src = image;
-
-            a.appendChild(img);
-            galleria.appendChild(a);
-
-        });
-
-        images1.forEach(function (image) {
-            var a = document.createElement('a');
-            var img = document.createElement('img');
-            a.href = image;
-            img.src = image;
-
-            a.appendChild(img);
-            galleria2.appendChild(a);
-
-        });
-    })();
+    Galleria.loadTheme('../js/galleria.classic.min.js');
+    Galleria.run('#galleria',
+            {
+                width: 800,
+                height: 600,
+                dataSource: images
+            });
 
 
+    function switchGallaries() {
+        switch (visble) {
+            case 1:
+                visble = 2;
+                Galleria.run('#galleria_1',
+                        {
+                            width: 800,
+                            height: 600,
+                            dataSource: images1
+                        });
+                break;
+            case 2:
+                visble = 1;
+                Galleria.run('#galleria_1',
+                        {
+                            width: 800,
+                            height: 600,
+                            dataSource: images
+                        });
 
-    function switchItems() {
-        var galleria = document.getElementById('galleria');
-        while (galleria.firstChild) {
-            try {
-                if (!(galleria.lastChild === galleria.firstChild))
-                    galleria.removeChild(galleria.firstChild);
-                else {
-                    break;
-                }
-            } catch (err) {
+                break;
 
-            }
         }
 
-        images1.forEach(function (image) {
-            var a = document.createElement('a');
-            var img = document.createElement('img');
-            a.href = image;
-            img.src = image;
-
-            a.appendChild(img);
-            galleria.appendChild(a);
-        });
     }
 
 </script>
