@@ -5,25 +5,30 @@
     <title>Events</title>
     <link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Roboto">
     <link rel="stylesheet" type="text/css" href="../css/main.css">
-    <link rel="stylesheet" type="text/css" href="../css/styles.css">
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.js"></script>
+    <script src="../js/main.js"></script>
 </head>
 
 <body>
-<div class="banner">
-    <img class="banner_image" src="../data/SiteImages/logo.png">
 
-    <p class="banner_text">
-        The Barrier Reef Orchestra - A North Queensland Icon
-    </p>
-</div>
 <div class="parent">
     <img alt="background_image" src="../images/image.jpg" class="blur">
 
     <div class="container">
 
+        <div class="banner_container">
+            <div class="banner">
+                <img class="banner_image" src="../data/SiteImages/logo.png">
+
+                <p class="banner_text">
+                    The Barrier Reef Orchestra - A North Queensland Icon
+                </p>
+            </div>
+        </div>
+
         <div class="tabs_container">
             <ul class="tabs">
-                <li><a class="menu_item" href="../index.html">Home</a></li>
+                <li><a class="menu_item" href="home.html">Home</a></li>
                 <li><a class="menu_item" href="events.html" id="current">News</a></li>
                 <li><a class="menu_item" href="gallery.html">Gallery</a></li>
                 <li><a class="menu_item" href="people.html">People</a></li>
@@ -35,7 +40,6 @@
         </div>
 
         <div class="content">
-
             <div class="pane_parent">
                 <div id="left_pane">
                     <a class="event zoom_img"
@@ -69,7 +73,7 @@
 
                                 <div class="fb-page" data-href="https://www.facebook.com/nqorchestra"
                                      data-width="600"
-                                     data-height="550"
+                                     data-height="600"
                                      data-small-header="false" data-adapt-container-width="true"
                                      data-hide-cover="false"
                                      data-show-facepile="true"
@@ -85,9 +89,19 @@
                     </div>
                 </div>
             </div>
+            <div class="sponsor_container" id="container">
+                <h3 class="">Sponsors</h3>
+
+                <div id="sponsors" class="sponsors">
+
+                </div>
+            </div>
         </div>
     </div>
 </div>
+<script type="text/javascript">
+    loadSponsors();
+</script>
 </body>
 
 </html>

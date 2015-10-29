@@ -84,6 +84,10 @@ var sponsorList = [
         link: "",
         name: "ASAP Printers"
     }, {
+        image: "../data/sponsors/townsville-council-logo.jpg",
+        link: "link.html",
+        name: "ASAP"
+    }, {
         image: "../data/sponsors/ACVClogo.jpg",
         link: "http://acvc.com.au/",
         name: "ACVC"
@@ -108,10 +112,6 @@ var sponsorList = [
         link: "link.html",
         name: "ASAP"
     }, {
-        image: "../data/sponsors/logo-on-white-slogan.jpg",
-        link: "link.html",
-        name: "ASAP"
-    }, {
         image: "../data/sponsors/racq-logo.jpg",
         link: "link.html",
         name: "ASAP"
@@ -124,19 +124,15 @@ var sponsorList = [
         link: "link.html",
         name: "ASAP"
     }, {
-        image: "../data/sponsors/sturt-business-centre-logo.png",
-        link: "link.html",
-        name: "ASAP"
-    }, {
         image: "../data/sponsors/the-keyboard-shop-web.jpg",
         link: "link.html",
         name: "ASAP"
     }, {
-        image: "../data/sponsors/ticketshop_logo.jpg",
+        image: "../data/sponsors/sturt-business-centre-logo.png",
         link: "link.html",
         name: "ASAP"
     }, {
-        image: "../data/sponsors/townsville-council-logo.jpg",
+        image: "../data/sponsors/ticketshop_logo.jpg",
         link: "link.html",
         name: "ASAP"
     }

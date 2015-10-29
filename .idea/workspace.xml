@@ -2,11 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8c639ca1-1316-4671-ade1-ab37df8c4c06" name="Default" comment="Added tool bar to some of the pages">
-      <change type="DELETED" beforePath="C:\Users\linde\WebstormProjects\groupassignment\css\styles.css" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/gallery/hotsummernight2008/Thumbs.db" afterPath="$PROJECT_DIR$/data/gallery/hotsummernight2008/Thumbs.db" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/gallery/instruments/Thumbs.db" afterPath="$PROJECT_DIR$/data/gallery/instruments/Thumbs.db" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/gallery/lastnightofproms/Thumbs.db" afterPath="$PROJECT_DIR$/data/gallery/lastnightofproms/Thumbs.db" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/gallery/slavonicswoon/Thumbs.db" afterPath="$PROJECT_DIR$/data/gallery/slavonicswoon/Thumbs.db" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/image.jpg" afterPath="$PROJECT_DIR$/images/image.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/html/events.html" afterPath="$PROJECT_DIR$/html/events.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/html/home.html" afterPath="$PROJECT_DIR$/html/home.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/main.css" afterPath="$PROJECT_DIR$/css/main.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/main.js" afterPath="$PROJECT_DIR$/js/main.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/html/sponsors.html" afterPath="$PROJECT_DIR$/html/sponsors.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="groupassignment.iws" />
@@ -33,18 +37,8 @@
       <file leaf-file-name="home.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/html/home.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.21742313">
-              <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="main.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/css/main.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.36842105">
-              <caret line="479" column="23" selection-start-line="479" selection-start-column="23" selection-end-line="479" selection-end-column="23" />
+            <state vertical-scroll-proportion="1.2350299">
+              <caret line="50" column="28" selection-start-line="50" selection-start-column="28" selection-end-line="50" selection-end-column="28" />
               <folding />
             </state>
           </provider>
@@ -53,8 +47,28 @@
       <file leaf-file-name="events.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/html/events.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-11.785714">
-              <caret line="53" column="38" selection-start-line="53" selection-start-column="38" selection-end-line="53" selection-end-column="38" />
+            <state vertical-scroll-proportion="-9.428572">
+              <caret line="63" column="79" selection-start-line="63" selection-start-column="79" selection-end-line="63" selection-end-column="79" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/main.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="488" column="17" selection-start-line="488" selection-start-column="17" selection-end-line="488" selection-end-column="17" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/main.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="75" column="38" selection-start-line="75" selection-start-column="38" selection-end-line="75" selection-end-column="38" />
               <folding />
             </state>
           </provider>
@@ -108,12 +122,12 @@
         <option value="$PROJECT_DIR$/html/gallery.html" />
         <option value="$PROJECT_DIR$/html/forms.html" />
         <option value="$PROJECT_DIR$/html/contact_us.html" />
-        <option value="$PROJECT_DIR$/html/events.html" />
         <option value="$PROJECT_DIR$/html/sponsors.html" />
-        <option value="$PROJECT_DIR$/js/main.js" />
         <option value="$PROJECT_DIR$/css/styles.css" />
         <option value="$PROJECT_DIR$/css/main.css" />
         <option value="$PROJECT_DIR$/html/home.html" />
+        <option value="$PROJECT_DIR$/html/events.html" />
+        <option value="$PROJECT_DIR$/js/main.js" />
       </list>
     </option>
   </component>
@@ -125,10 +139,10 @@
     <order />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-13" />
-    <option name="y" value="-13" />
-    <option name="width" value="3226" />
-    <option name="height" value="1746" />
+    <option name="x" value="1" />
+    <option name="y" value="1" />
+    <option name="width" value="3198" />
+    <option name="height" value="1718" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
@@ -195,6 +209,20 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="images" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="groupassignment" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="groupassignment" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="html" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -231,11 +259,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\linde\WebstormProjects\groupassignment\images" />
       <recent name="C:\Users\linde\WebstormProjects\groupassignment\js" />
       <recent name="C:\Users\linde\WebstormProjects\groupassignment\css" />
       <recent name="C:\Users\linde\WebstormProjects\groupassignment\html" />
       <recent name="C:\Users\linde\WebstormProjects\groupassignment\test" />
-      <recent name="C:\Users\linde\WebstormProjects\groupassignment\data\audio" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\linde\WebstormProjects\groupassignment\images" />
@@ -422,19 +450,26 @@
       <option name="project" value="LOCAL" />
       <updated>1446084902922</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="Added tool bar to some of the pages">
+      <created>1446096734324</created>
+      <option name="number" value="00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1446096734324</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
     <option name="totallyTimeSpent" value="2824000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-13" y="-13" width="3226" height="1746" extended-state="6" />
+    <frame x="1" y="1" width="3198" height="1718" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.17705655" sideWeight="0.8055556" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.17866407" sideWeight="0.8055556" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32965517" sideWeight="0.5012854" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32965517" sideWeight="0.49871466" order="7" side_tool="false" content_ui="tabs" />
@@ -453,7 +488,6 @@
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -516,11 +550,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/data/events/sor200.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/data/events/potter01.gif">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -788,22 +817,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/js/main.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.2734375">
-          <caret line="157" column="33" selection-start-line="157" selection-start-column="33" selection-end-line="157" selection-end-column="33" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/html/events.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-11.785714">
-          <caret line="53" column="38" selection-start-line="53" selection-start-column="38" selection-end-line="53" selection-end-column="38" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$APPLICATION_HOME_DIR$/lib/webstorm.jar!/resources/html5-schema/html5/embed.rnc">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.3046875">
@@ -814,16 +827,37 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/main.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.36842105">
-          <caret line="479" column="23" selection-start-line="479" selection-start-column="23" selection-end-line="479" selection-end-column="23" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="488" column="17" selection-start-line="488" selection-start-column="17" selection-end-line="488" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/image.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/events.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-9.428572">
+          <caret line="63" column="79" selection-start-line="63" selection-start-column="79" selection-end-line="63" selection-end-column="79" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="75" column="38" selection-start-line="75" selection-start-column="38" selection-end-line="75" selection-end-column="38" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/html/home.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.21742313">
-          <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+        <state vertical-scroll-proportion="1.2350299">
+          <caret line="50" column="28" selection-start-line="50" selection-start-column="28" selection-end-line="50" selection-end-column="28" />
           <folding />
         </state>
       </provider>
