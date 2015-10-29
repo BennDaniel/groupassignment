@@ -1,10 +1,25 @@
 div.banner {
+    position: fixed;
+    /*top: 0;*/
+    /*left: 0;*/
+    /*right: 0;*/
     background-color: #FFFFFF;
     margin: auto;
     width: 70%;
     padding: 10px;
     text-align: center;
     display: table;
+}
+
+div.parent {
+    /*position: inherit;*/
+    height: 100%;
+    width: 100%;
+    /*float: left;*/
+    /*clear: none;*/
+    display: block;
+    justify-content: center;
+    align-items: center;
 }
 
 img.banner_image {
@@ -84,15 +99,37 @@ div.events_ > div {
     /*z-index: 0;*/
     /*clear: none;*/
     /*display: flex;*/
+    overflow: hidden;
+    float: right;
+    right: 0;
     justify-content: center;
     align-items: center;
+}
+
+.zoom_img {
+    -webkit-transition: -webkit-transform 0.4s ease;
+    -moz-transition: -moz-transform 0.4s ease;
+    -o-transition: -o-transform 0.4s ease;
+    transition: transform 0.4s ease;
+}
+
+.zoom_img:hover {
+    -webkit-transform: scale(1.04);
+    -moz-transform: scale(1.04);
+    -ms-transform: scale(1.04);
+    -o-transform: scale(1.04);
+    transform: scale(1.04);
+}
+
+.event:hover, .event:active {
+    border: solid 2px white;
 }
 
 img.event_img {
     margin-left: auto;
     margin-right: auto;
     width: 500px;
-    height: 500px;
+    height: auto;
     /*z-index: 1;*/
     display: block;
     flex-shrink: 0;
@@ -171,55 +208,24 @@ div.pane_parent {
     display: flex;
 }
 
-
-a.joinus_with_img {
-    margin: 5px;
-    width: 255px;
-    height: 160px;
-    position: relative;
-    opacity: 1;
-    z-index: 0;
-    clear: none;
-    display: block;
-    justify-content: center;
-    align-items: center;
-}
-
-img.joinus_event_img:hover {
-    opacity: 0.7;
-}
-
-img.event_img:hover {
-    opacity: 0.7;
-}
-
-img.joinus_event_img {
-    border-radius: 8px;
+p.overlay_text {
     margin-left: auto;
-    margin-right: auto;
-    width: 255px;
-    height: 160px;
-    z-index: 1;
-    display: block;
+    z-index: 2;
+    background-color: #111111;
     flex-shrink: 0;
     overflow: hidden;
-    object-position: center;
     object-fit: cover;
-}
-
-p.overlay_text {
     position: absolute;
-    right: 0;
-    left: 0;
     bottom: 0;
-    /*z-index: 2;*/
-    display: inline-block;
+    display: block;
     padding-top: 10px;
     padding-bottom: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
     font-size: 20px;
     text-align: center;
     width: 500px;
-    background-color: rgba(0, 0, 0, 0.65);
+    background-color: rgba(0, 0, 0, 0.85);
     color: #FFFFFF;
 }
 
@@ -232,8 +238,6 @@ div.tabs_container {
 p.joinus_overlay_text {
     position: absolute;
     right: 0;
-    left: 0;
-    bottom: 0;
     z-index: 2;
     display: inline-block;
     padding-top: 10px;
@@ -247,9 +251,11 @@ p.joinus_overlay_text {
 
 a.joinus {
     text-align: center;
-    margin: 20px 5px 5px 5px;
+    margin: 20px;
     display: block;
-    padding: 50px 80px 50px 80px;
+    width: 255px;
+    height: 160px;
+    line-height: 160px;
     font-size: 30px;
     border-radius: 8px;
     border: solid 2px white;
@@ -259,6 +265,23 @@ a.joinus {
     color: #ffffff;
 }
 
+a.joinus_with_img {
+    border-radius: 8px;
+    overflow: hidden;
+    margin: 20px;
+    width: 255px;
+    height: 160px;
+    position: relative;
+    clear: none;
+    display: block;
+    justify-content: center;
+    align-items: center;
+}
+
+a.joinus_with_img:hover, a.joinus_with_img:active {
+    border-radius: 8px;
+    border: solid 2px white;
+}
 
 a.joinus:hover, a.joinus:active {
     background-color: #FF7742;

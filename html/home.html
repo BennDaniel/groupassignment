@@ -5,6 +5,7 @@
     <title></title>
     <link rel="stylesheet" type="text/css" href="../css/main.css">
     <link rel="stylesheet" type="text/css" href="../css/styles.css">
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.js"></script>
 </head>
 
 <body>
@@ -15,6 +16,7 @@
         The Barrier Reef Orchestra - A North Queensland Icon
     </p>
 </div>
+
 <div class="parent">
     <img alt="background_image" src="../images/image.jpg" class="blur">
 
@@ -22,14 +24,14 @@
 
         <div class="tabs_container">
             <ul class="tabs">
-                <li><a class="menu_item" href="../index.html">Home</a></li>
+                <li><a class="menu_item" href="home.html" id="current">Home</a></li>
                 <li><a class="menu_item" href="events.html">News</a></li>
                 <li><a class="menu_item" href="gallery.html">Gallery</a></li>
                 <li><a class="menu_item" href="people.html">People</a></li>
                 <li><a class="menu_item" href="forms.html">Forms</a></li>
                 <li><a class="menu_item" href="supporters.html">Supporters</a></li>
                 <li><a class="menu_item" href="contact_us.html">Contact Us</a></li>
-                <li><a class="menu_item" href="about.html" id="current">About Us</a></li>
+                <li><a class="menu_item" href="about.html">About Us</a></li>
             </ul>
         </div>
 
@@ -38,7 +40,7 @@
                 <div id="left_pane">
                     <a class="event"
                        onclick="window.open('https://au.patronbase.com/_TVCC/Productions/0886/Performances');">
-                        <img class="event_img" src="../images/MusicalFeast2015.jpg">
+                        <img class="event_img zoom_img" src="../images/MusicalFeast2015.jpg">
 
                         <p class="overlay_text">
                             7:30 pm Saturday 7 November at Townsville CivicTheatre <br>
@@ -55,7 +57,7 @@
                     </a>
 
                     <a class="joinus_with_img">
-                        <img class="joinus_event_img" src="../images/image.jpg">
+                        <img class="joinus_event_img zoom_img" src="../images/image.jpg">
 
                         <p class="joinus_overlay_text">
                             Become a benefactor
@@ -63,7 +65,7 @@
                     </a>
 
                     <a class="joinus_with_img">
-                        <img class="joinus_event_img" src="../images/image.jpg">
+                        <img class="joinus_event_img zoom_img" src="../images/image.jpg">
 
                         <p class="joinus_overlay_text">
                             About Us
@@ -81,6 +83,123 @@
         </div>
     </div>
 </div>
+<div class="container" id="container">
+    <h3 class="">Sponsors</h3>
+
+    <div id="sponsors" class="sponsors">
+
+    </div>
+</div>
+
+<script type="text/javascript">
+
+    var team_members = [
+        {
+            image: "../data/sponsors/asap-logo.png",
+            link: "",
+            name: "ASAP Printers"
+        }, {
+            image: "../data/sponsors/ACVClogo.jpg",
+            link: "http://acvc.com.au/",
+            name: "ACVC"
+        }, {
+            image: "../data/sponsors/AFCMlogo-25th.gif",
+            link: "http://www.afcm.com.au/",
+            name: "AFCM"
+        }, {
+            image: "../data/sponsors/bunnings-warehouse-web.jpg",
+            link: "http://www.bunnings.com.au/",
+            name: "Bunnings warehouse"
+        }, {
+            image: "../data/sponsors/cowboys-logo-web.jpg",
+            link: "http://www.cowboysleagues.com.au/",
+            name: "Cowboys"
+        }, {
+            image: "../data/sponsors/cg-logo.jpg",
+            link: "http://www.groovygraphics.com.au/Home.html",
+            name: "Groovy Graphics"
+        }, {
+            image: "../data/sponsors/logo-col-slogan-web-250w.jpg",
+            link: "link.html",
+            name: "ASAP"
+        }, {
+            image: "../data/sponsors/logo-on-white-slogan.jpg",
+            link: "link.html",
+            name: "ASAP"
+        }, {
+            image: "../data/sponsors/racq-logo.jpg",
+            link: "link.html",
+            name: "ASAP"
+        }, {
+            image: "../data/sponsors/rsl-qld-web.jpg",
+            link: "link.html",
+            name: "ASAP"
+        }, {
+            image: "../data/sponsors/SOE-new-logo.jpg",
+            link: "link.html",
+            name: "ASAP"
+        }, {
+            image: "../data/sponsors/sturt-business-centre-logo.png",
+            link: "link.html",
+            name: "ASAP"
+        }, {
+            image: "../data/sponsors/the-keyboard-shop-web.jpg",
+            link: "link.html",
+            name: "ASAP"
+        }, {
+            image: "../data/sponsors/ticketshop_logo.jpg",
+            link: "link.html",
+            name: "ASAP"
+        }, {
+            image: "../data/sponsors/townsville-council-logo.jpg",
+            link: "link.html",
+            name: "ASAP"
+        }
+    ];
+
+    (function () {
+        console.log('loading sponsors');
+        var div = document.getElementById("container");
+        var sponsors = $(div).find("#sponsors")[0];
+
+        team_members.forEach(function (item) {
+            var div0 = document.createElement("div");
+            var div1 = document.createElement("div");
+            var div2 = document.createElement("div");
+
+            var a = document.createElement("a");
+            a.onclick = function () {
+                window.open(item.link)
+            };
+
+            var div3 = document.createElement("div");
+
+            var image = document.createElement("img");
+            image.src = item.image;
+            image.alt = "sponsor_logo";
+            image.height = 100;
+            image.maxWidth = 100;
+            image.maxHeight = 100;
+
+            var p = document.createElement("p");
+            p.innerHTML = item.name;
+
+            div3.appendChild(p);
+
+            div2.appendChild(image);
+            div2.appendChild(div3);
+            a.appendChild(div2);
+            div1.appendChild(a);
+            div0.appendChild(div1);
+
+            div0.style.display = "inline-block";
+            div0.style.marginLeft = '5px';
+            div0.style.marginRight = '5px';
+            sponsors.appendChild(div0);
+        });
+    })();
+</script>
+
 </body>
 
 

@@ -102,16 +102,7 @@ div.central {
     padding: 8px;
 }
 
-div.parent {
-    position: relative;
-    height: 100%;
-    width: 100%;
-    float: left;
-    clear: none;
-    display: block;
-    justify-content: center;
-    align-items: center;
-}
+
 
 .container {
     position: relative;
@@ -262,25 +253,12 @@ div.pane_parent {
     display: flex;
 }
 
-a.joinus_with_img {
-    float: right;
-    margin: 5px;
-    width: 255px;
-    height: 200px;
-    position: absolute;
-    z-index: 0;
-    clear: none;
-    display: block;
-    justify-content: center;
-    align-items: center;
-}
-
 img.joinus_event_img {
     border-radius: 8px;
     margin-left: auto;
     margin-right: auto;
     width: 255px;
-    height: 200px;
+    height: 160px;
     z-index: 1;
     display: block;
     flex-shrink: 0;
@@ -289,21 +267,6 @@ img.joinus_event_img {
     object-fit: cover;
 }
 
-p.overlay_text {
-    position: absolute;
-    right: 0;
-    left: 0;
-    bottom: 0;
-    z-index: 2;
-    display: inline-block;
-    padding-top: 10px;
-    padding-bottom: 10px;
-    font-size: 20px;
-    text-align: center;
-    width: 500px;
-    background-color: rgba(0, 0, 0, 0.9);
-    color: #FFFFFF;
-}
 
 p.joinus_overlay_text {
     position: absolute;
