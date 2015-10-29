@@ -5,6 +5,7 @@
     <title>Forms</title>
     <link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Roboto">
     <link rel="stylesheet" type="text/css" href="../css/main.css">
+    <link rel="stylesheet" type="text/css" href="../css/styles.css">
 </head>
 <body>
 
@@ -42,8 +43,8 @@ o you need to use JavaScript to validate your form data prior to form submission
                 <br>
                 <input id="role" type="text" name="role">
                 <br>
-                Or be anonymous <input type="radio" name="transaction_type" value="anon">
-
+                <label for="transaction_type">Or be anonymous</label> <input id="transaction_type" type="radio"
+                                                                             name="transaction_type" value="anon">
                 <br>
                 <label for="address">Mailing Address:</label><br>
                 <input id="address" type="text" name="address">
@@ -57,7 +58,6 @@ o you need to use JavaScript to validate your form data prior to form submission
                 <input id="phone" type="number" name="phone">
                 <br>
 
-
                 <label for="mobile">Mobile:</label><br>
                 <input id="mobile" type="number" name="mobile">
                 <br>
@@ -66,7 +66,7 @@ o you need to use JavaScript to validate your form data prior to form submission
                 <input id="amount" type="number" name="amount" min="0.01">
                 <br>
 
-                <label for="radio_buttons">By</label>
+                <label for="radio_buttons">By :</label>
 
                 <div id="radio_buttons">
                     <input type="radio" name="transaction_type" value="eftpos" checked> EFTPOS

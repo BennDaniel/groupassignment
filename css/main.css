@@ -48,7 +48,7 @@ img.blur {
     z-index: 1;
     display: block;
     position: fixed;
-    top: 0;
+    /*top: 0;*/
     flex-shrink: 0;
     min-width: 100%;
     min-height: 100%;
@@ -93,7 +93,7 @@ div.content {
     padding: 0px 28px 16px 28px;
     border-radius: 25px;
     text-align: left;
-    background: rgba(0, 0, 0, 0.8);
+    /*background: rgba(0, 0, 0, 0.8);*/
 }
 
 div.central {
@@ -103,8 +103,7 @@ div.central {
 }
 
 div.parent {
-    position: absolute;
-    z-index: 0;
+    position: relative;
     height: 100%;
     width: 100%;
     float: left;
@@ -115,11 +114,13 @@ div.parent {
 }
 
 .container {
-    position: absolute;
-    top: 0;
-    left: 0;
+    position: relative;
     z-index: 2;
     width: 100%;
+    bottom: 0;
+    top: 0;
+    left: 0;
+    right: 0;
     text-align: center;
     color: #ffffff;
     background: rgba(0, 0, 0, 0.72);
@@ -226,3 +227,99 @@ div.main_container {
     z-index: 100;
     position: absolute;
 }
+
+#banner {
+    background-color: black;
+    text-align: center;
+    padding: 5px;
+}
+
+#left_pane {
+    flex: 1;
+    width: 500px;
+    height: 500px;
+}
+
+#right_pane {
+    flex: 1;
+    width: 500px;
+    height: 400px;
+}
+
+#sponsors {
+    background-color: black;
+    clear: both;
+    text-align: center;
+    padding: 5px;
+}
+
+audio.media {
+    display: block;
+}
+
+div.pane_parent {
+    height: 550px;
+    display: flex;
+}
+
+a.joinus_with_img {
+    float: right;
+    margin: 5px;
+    width: 255px;
+    height: 200px;
+    position: absolute;
+    z-index: 0;
+    clear: none;
+    display: block;
+    justify-content: center;
+    align-items: center;
+}
+
+img.joinus_event_img {
+    border-radius: 8px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 255px;
+    height: 200px;
+    z-index: 1;
+    display: block;
+    flex-shrink: 0;
+    overflow: hidden;
+    object-position: center;
+    object-fit: cover;
+}
+
+p.overlay_text {
+    position: absolute;
+    right: 0;
+    left: 0;
+    bottom: 0;
+    z-index: 2;
+    display: inline-block;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-size: 20px;
+    text-align: center;
+    width: 500px;
+    background-color: rgba(0, 0, 0, 0.9);
+    color: #FFFFFF;
+}
+
+p.joinus_overlay_text {
+    position: absolute;
+    right: 0;
+    left: 0;
+    bottom: 0;
+    z-index: 2;
+    display: inline-block;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-size: 20px;
+    text-align: center;
+    width: inherit;
+    background-color: rgba(0, 0, 0, 0.9);
+    color: #FFFFFF;
+}
+
+
+
