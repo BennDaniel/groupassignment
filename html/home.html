@@ -2,25 +2,28 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title></title>
+    <title>Barrier Reef Orchestra</title>
     <link rel="stylesheet" type="text/css" href="../css/main.css">
     <link rel="stylesheet" type="text/css" href="../css/styles.css">
     <script src="http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.js"></script>
+    <script src="../js/main.js"></script>
 </head>
 
 <body>
-<div class="banner">
-    <img class="banner_image" src="../data/SiteImages/logo.png">
-
-    <p class="banner_text">
-        The Barrier Reef Orchestra - A North Queensland Icon
-    </p>
-</div>
-
 <div class="parent">
     <img alt="background_image" src="../images/image.jpg" class="blur">
 
     <div class="container">
+
+        <div class="banner_container">
+            <div class="banner">
+                <img class="banner_image" src="../data/SiteImages/logo.png">
+
+                <p class="banner_text">
+                    The Barrier Reef Orchestra - A North Queensland Icon
+                </p>
+            </div>
+        </div>
 
         <div class="tabs_container">
             <ul class="tabs">
@@ -71,133 +74,26 @@
                             About Us
                         </p>
                     </a>
-
                 </div>
-
                 <!--<audio controls class="media">-->
                 <!--<source src="../data/audio/ambient.mp3" type="audio/mpeg">-->
                 <!--Not supported-->
                 <!--</audio>-->
             </div>
 
+            <div class="sponsor_container" id="container">
+                <h3 class="">Sponsors</h3>
+
+                <div id="sponsors" class="sponsors">
+
+                </div>
+            </div>
         </div>
-    </div>
-</div>
-<div class="container" id="container">
-    <h3 class="">Sponsors</h3>
-
-    <div id="sponsors" class="sponsors">
-
     </div>
 </div>
 
 <script type="text/javascript">
-
-    var team_members = [
-        {
-            image: "../data/sponsors/asap-logo.png",
-            link: "",
-            name: "ASAP Printers"
-        }, {
-            image: "../data/sponsors/ACVClogo.jpg",
-            link: "http://acvc.com.au/",
-            name: "ACVC"
-        }, {
-            image: "../data/sponsors/AFCMlogo-25th.gif",
-            link: "http://www.afcm.com.au/",
-            name: "AFCM"
-        }, {
-            image: "../data/sponsors/bunnings-warehouse-web.jpg",
-            link: "http://www.bunnings.com.au/",
-            name: "Bunnings warehouse"
-        }, {
-            image: "../data/sponsors/cowboys-logo-web.jpg",
-            link: "http://www.cowboysleagues.com.au/",
-            name: "Cowboys"
-        }, {
-            image: "../data/sponsors/cg-logo.jpg",
-            link: "http://www.groovygraphics.com.au/Home.html",
-            name: "Groovy Graphics"
-        }, {
-            image: "../data/sponsors/logo-col-slogan-web-250w.jpg",
-            link: "link.html",
-            name: "ASAP"
-        }, {
-            image: "../data/sponsors/logo-on-white-slogan.jpg",
-            link: "link.html",
-            name: "ASAP"
-        }, {
-            image: "../data/sponsors/racq-logo.jpg",
-            link: "link.html",
-            name: "ASAP"
-        }, {
-            image: "../data/sponsors/rsl-qld-web.jpg",
-            link: "link.html",
-            name: "ASAP"
-        }, {
-            image: "../data/sponsors/SOE-new-logo.jpg",
-            link: "link.html",
-            name: "ASAP"
-        }, {
-            image: "../data/sponsors/sturt-business-centre-logo.png",
-            link: "link.html",
-            name: "ASAP"
-        }, {
-            image: "../data/sponsors/the-keyboard-shop-web.jpg",
-            link: "link.html",
-            name: "ASAP"
-        }, {
-            image: "../data/sponsors/ticketshop_logo.jpg",
-            link: "link.html",
-            name: "ASAP"
-        }, {
-            image: "../data/sponsors/townsville-council-logo.jpg",
-            link: "link.html",
-            name: "ASAP"
-        }
-    ];
-
-    (function () {
-        console.log('loading sponsors');
-        var div = document.getElementById("container");
-        var sponsors = $(div).find("#sponsors")[0];
-
-        team_members.forEach(function (item) {
-            var div0 = document.createElement("div");
-            var div1 = document.createElement("div");
-            var div2 = document.createElement("div");
-
-            var a = document.createElement("a");
-            a.onclick = function () {
-                window.open(item.link)
-            };
-
-            var div3 = document.createElement("div");
-
-            var image = document.createElement("img");
-            image.src = item.image;
-            image.alt = "sponsor_logo";
-            image.height = 100;
-            image.maxWidth = 100;
-            image.maxHeight = 100;
-
-            var p = document.createElement("p");
-            p.innerHTML = item.name;
-
-            div3.appendChild(p);
-
-            div2.appendChild(image);
-            div2.appendChild(div3);
-            a.appendChild(div2);
-            div1.appendChild(a);
-            div0.appendChild(div1);
-
-            div0.style.display = "inline-block";
-            div0.style.marginLeft = '5px';
-            div0.style.marginRight = '5px';
-            sponsors.appendChild(div0);
-        });
-    })();
+    loadSponsors();
 </script>
 
 </body>
