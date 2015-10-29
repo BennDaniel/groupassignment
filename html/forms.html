@@ -5,7 +5,8 @@
     <title>Forms</title>
     <link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Roboto">
     <link rel="stylesheet" type="text/css" href="../css/main.css">
-    <link rel="stylesheet" type="text/css" href="../css/styles.css">
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.js"></script>
+    <script src="../js/main.js"></script>
 </head>
 <body>
 
@@ -20,6 +21,17 @@ o you need to use JavaScript to validate your form data prior to form submission
     <img alt="background_image" src="../images/image.jpg" class="blur">
 
     <div class="container">
+
+        <div class="banner_container">
+            <div class="banner">
+                <img class="banner_image" src="../data/SiteImages/logo.png">
+
+                <p class="banner_text">
+                    The Barrier Reef Orchestra - A North Queensland Icon
+                </p>
+            </div>
+        </div>
+
         <div>
             <ul class="tabs">
                 <li><a class="menu_item" href="../index.html">Home</a></li>
@@ -77,8 +89,20 @@ o you need to use JavaScript to validate your form data prior to form submission
 
             </form>
 
+
+            <div class="sponsor_container" id="container">
+                <h3 class="">Sponsors</h3>
+
+                <div id="sponsors" class="sponsors">
+
+                </div>
+            </div>
         </div>
     </div>
 </div>
+
+<script type="text/javascript">
+    loadSponsors();
+</script>
 </body>
 </html>

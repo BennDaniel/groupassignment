@@ -5,24 +5,27 @@
     <title>About Us</title>
     <link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Roboto">
     <link rel="stylesheet" type="text/css" href="../css/main.css">
-    <link rel="stylesheet" type="text/css" href="../css/styles.css">
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.js"></script>
+    <script src="../js/main.js"></script>
 </head>
 <body>
-<div class="banner">
-    <img class="banner_image" src="../data/SiteImages/logo.png">
-
-    <p class="banner_text">
-        The Barrier Reef Orchestra - A North Queensland Icon
-    </p>
-</div>
 <div class="parent">
     <img alt="background_image" src="../images/image.jpg" class="blur">
 
     <div class="container">
+        <div class="banner_container">
+            <div class="banner">
+                <img class="banner_image" src="../data/SiteImages/logo.png">
+
+                <p class="banner_text">
+                    The Barrier Reef Orchestra - A North Queensland Icon
+                </p>
+            </div>
+        </div>
 
         <div class="tabs_container">
             <ul class="tabs">
-                <li><a class="menu_item" href="../index.html">Home</a></li>
+                <li><a class="menu_item" href="home.html">Home</a></li>
                 <li><a class="menu_item" href="events.html">News</a></li>
                 <li><a class="menu_item" href="gallery.html">Gallery</a></li>
                 <li><a class="menu_item" href="people.html">People</a></li>
@@ -36,8 +39,19 @@
         <div class="content">
 
 
+            <div class="sponsor_container" id="container">
+                <h3 class="">Sponsors</h3>
+
+                <div id="sponsors" class="sponsors">
+
+                </div>
+            </div>
         </div>
     </div>
 </div>
+
+<script type="text/javascript">
+    loadSponsors();
+</script>
 </body>
 </html>

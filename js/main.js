@@ -159,8 +159,7 @@ function loadSponsors() {
 
         var image = document.createElement("img");
         image.src = item.image;
-        image.className = "zoom_img";
-        image.alt = "sponsor_logo";
+        image.alt = "sponsor_logo: " + item.name;
         image.height = 100;
         image.maxWidth = 100;
         image.maxHeight = 100;
@@ -179,6 +178,7 @@ function loadSponsors() {
         div0.style.display = "inline-block";
         div0.style.marginLeft = '5px';
         div0.style.marginRight = '5px';
+        div0.className = "zoom_img";
         sponsors.appendChild(div0);
     });
 }
@@ -189,4 +189,9 @@ function strContains(str, content) {
 
     }
     return false;
+}
+
+
+function loadPeople() {
+    //Todo special guests , life members , management committee
 }
