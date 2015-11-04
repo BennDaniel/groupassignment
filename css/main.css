@@ -44,7 +44,6 @@ img.blur {
     z-index: 1;
     display: block;
     position: fixed;
-    /*top: 0;*/
     flex-shrink: 0;
     min-width: 100%;
     min-height: 100%;
@@ -77,9 +76,17 @@ a.sign_up {
 }
 
 div.contact_info {
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    display: block;
+    padding: 10px 28px 16px 28px;
+}
+
+div.contact_info_item {
+    margin-left: auto;
+    margin-right: auto;
     display: inline-block;
-    padding: 0px 28px 16px 28px;
-    border-radius: 25px;
 }
 
 div.content {
@@ -113,6 +120,10 @@ div.divider {
     text-align: center;
     color: #ffffff;
     background: rgba(0, 0, 0, 0.72);
+}
+
+h2.header {
+    text-decoration: underline;
 }
 
 .sponsor_container {
@@ -212,11 +223,6 @@ div.main_container {
     position: absolute;
 }
 
-#banner {
-    text-align: center;
-    padding: 5px;
-}
-
 #left_pane {
     flex: 1;
     width: 500px;
@@ -237,6 +243,22 @@ div.main_container {
 
 audio.media {
     display: block;
+    margin: 3px;
+}
+
+span.history {
+    display: block;
+    margin: 18px 0 18px 0;
+    padding: 5px;
+    background-color: rgba(100, 100, 100, 0.6);
+    font-weight: bold;
+}
+
+div.history {
+    background-color: rgba(0, 0, 0, 0.6);
+    color: #FFFFFF;
+    padding: 10px;
+    font-size: 18px;
 }
 
 .center {
@@ -284,7 +306,7 @@ p.joinus_overlay_text {
 div.banner {
     margin: 0 auto 0 auto;
     width: 70%;
-    height: 100px;
+    min-height: 100px;
     padding: 10px;
     display: block;
 }
@@ -292,16 +314,14 @@ div.banner {
 div.banner_container {
     background-color: #FFFFFF;
     width: 100%;
-    height: 120px;
+    min-height: 120px;
+    height: auto;
     display: block;
 }
 
 div.parent {
-    /*position: inherit;*/
     height: 100%;
     width: 100%;
-    /*float: left;*/
-    /*clear: none;*/
     display: block;
     justify-content: center;
     align-items: center;
@@ -321,7 +341,6 @@ p.banner_text {
     color: #111111;
     display: inline-block;
     position: relative;
-    line-height: 100px;
     -webkit-margin-before: 0;
     -webkit-margin-after: 0;
 }
@@ -357,17 +376,6 @@ a.menu_item:hover, a.menu_item:active {
     font-weight: bold;
     padding: 22px 8px 22px 8px;
     background-color: #444444;
-}
-
-ul.tabs {
-    list-style-type: none;
-    margin: 0;
-    overflow: hidden;
-}
-
-ul.tabs > li {
-    display: inline;
-    float: left;
 }
 
 div.events_ {
@@ -485,14 +493,8 @@ div.text_container {
     height: 400px;
 }
 
-#sponsors {
-    clear: both;
-    text-align: center;
-    padding: 5px;
-}
-
-audio.media {
-    display: block;
+h2.sponsors {
+    text-decoration: underline;
 }
 
 p.overlay_text {
@@ -509,6 +511,12 @@ p.overlay_text {
     text-align: center;
     width: 500px;
     background-color: rgba(0, 0, 0, 0.85);
+    color: #FFFFFF;
+}
+
+p.audio_text {
+    font-size: 17px;
+    text-align: center;
     color: #FFFFFF;
 }
 

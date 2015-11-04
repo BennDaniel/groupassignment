@@ -81,11 +81,11 @@ function loadTeamMembers() {
 var sponsorList = [
     {
         image: "../data/sponsors/asap-logo.png",
-        link: "",
+        link: "https://www.google.com.au/maps/place/ASAP+Printers/@-19.272752,146.7590133,17z/data=!3m1!4b1!4m2!3m1!1s0x6bd5f9b1cb8f110d:0x1326a8c6f3208642",
         name: "ASAP Printers"
     }, {
         image: "../data/sponsors/townsville-council-logo.jpg",
-        link: "link.html",
+        link: "http://www.townsville.qld.gov.au/Pages/default.aspx",
         name: "ASAP"
     }, {
         image: "../data/sponsors/ACVClogo.jpg",
@@ -109,32 +109,32 @@ var sponsorList = [
         name: "Groovy Graphics"
     }, {
         image: "../data/sponsors/logo-col-slogan-web-250w.jpg",
-        link: "link.html",
-        name: "ASAP"
+        link: "http://www.kaptivmedia.com.au/",
+        name: "Kaptiv Media"
     }, {
         image: "../data/sponsors/racq-logo.jpg",
-        link: "link.html",
-        name: "ASAP"
+        link: "http://www.racq.com.au/",
+        name: "RACQ"
     }, {
         image: "../data/sponsors/rsl-qld-web.jpg",
-        link: "link.html",
-        name: "ASAP"
+        link: "http://rsl.org.au/",
+        name: "RSL"
     }, {
         image: "../data/sponsors/SOE-new-logo.jpg",
-        link: "link.html",
-        name: "ASAP"
+        link: "http://www.signsofexcellence.com.au/",
+        name: "SOE"
     }, {
         image: "../data/sponsors/the-keyboard-shop-web.jpg",
-        link: "link.html",
-        name: "ASAP"
+        link: "https://www.thekeyboardshop.com.au/",
+        name: "The Keyboard Shop"
     }, {
         image: "../data/sponsors/sturt-business-centre-logo.png",
-        link: "link.html",
-        name: "ASAP"
+        link: "http://www.sturtbc.com.au/",
+        name: "Sturt Business Center"
     }, {
         image: "../data/sponsors/ticketshop_logo.jpg",
-        link: "link.html",
-        name: "ASAP"
+        link: "http://www.townsville.qld.gov.au/community/ticketshop/Pages/onsale.aspx",
+        name: "Ticket Shop"
     }
 ];
 
