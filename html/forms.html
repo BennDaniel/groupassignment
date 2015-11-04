@@ -40,6 +40,7 @@ o you need to use JavaScript to validate your form data prior to form submission
                 <li><a class="menu_item" href="people.html">People</a></li>
                 <li><a class="menu_item" href="forms.html" id="current">Forms</a></li>
                 <li><a class="menu_item" href="supporters.html">Supporters</a></li>
+                <li><a class="menu_item" href="contact_us.html">Contact Us</a></li>
                 <li><a class="menu_item" href="about.html">About Us</a></li>
             </ul>
         </div>
@@ -48,34 +49,34 @@ o you need to use JavaScript to validate your form data prior to form submission
 
             <form>
                 <label for="name"> Name:</label> <br>
-                <input id="name" type="text" name="name">
+                <input id="name" type="text" name="name" placeholder="Name">
                 <br>
 
                 <label for="role"> Please place me/us on the benefactor roll as:</label>
                 <br>
-                <input id="role" type="text" name="role">
+                <input id="role" type="text" name="role" placeholder="Nam">
                 <br>
                 <label for="transaction_type">Or be anonymous</label> <input id="transaction_type" type="radio"
                                                                              name="transaction_type" value="anon">
                 <br>
                 <label for="address">Mailing Address:</label><br>
-                <input id="address" type="text" name="address">
+                <input id="address" type="text" name="address" placeholder="Address">
                 <br>
 
                 <label for="email">Email:</label><br>
-                <input id="email" type="email" name="email">
+                <input id="email" type="email" name="email" placeholder="Email">
                 <br>
 
                 <label for="phone">Phone:</label><br>
-                <input id="phone" type="number" name="phone">
+                <input id="phone" type="number" name="phone" pattern=".{6,12}" placeholder="Phone">
                 <br>
 
                 <label for="mobile">Mobile:</label><br>
-                <input id="mobile" type="number" name="mobile">
+                <input id="mobile" type="number" name="mobile" min pattern=".{6,12}" placeholder="Mobile">
                 <br>
 
                 <label for="amount">I want to contribute:</label><br>
-                <input id="amount" type="number" name="amount" min="0.01">
+                <input id="amount" type="number" name="amount" min="0.01" placeholder="$">
                 <br>
 
                 <label for="radio_buttons">By :</label>
