@@ -182,6 +182,7 @@ function loadSponsors() {
         sponsors.appendChild(div0);
     });
 }
+
 function strContains(str, content) {
     try {
         return str.toLocaleLowerCase().indexOf(content.toLowerCase()) > -1;

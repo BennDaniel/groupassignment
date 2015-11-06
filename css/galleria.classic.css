@@ -7,7 +7,7 @@
 .galleria-theme-classic {
     position: relative;
     overflow: hidden;
-    background: #000;
+    background: rgba(0, 0, 0, 0.6);
 }
 
 .galleria-theme-classic img {

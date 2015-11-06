@@ -189,6 +189,7 @@ a.address {
 }
 
 #current {
+    text-decoration: underline;
     font-weight: bold;
     background-color: rgba(0, 0, 0, 0.8);
 }
@@ -287,6 +288,20 @@ img.joinus_event_img {
     object-fit: cover;
 }
 
+img.album {
+    border-radius: 8px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 210px;
+    height: 110px;
+    z-index: 1;
+    display: block;
+    flex-shrink: 0;
+    overflow: hidden;
+    object-position: center;
+    object-fit: cover;
+}
+
 p.joinus_overlay_text {
     position: absolute;
     right: 0;
@@ -299,7 +314,23 @@ p.joinus_overlay_text {
     font-size: 20px;
     text-align: center;
     width: inherit;
-    background-color: rgba(0, 0, 0, 0.9);
+    background-color: rgba(0, 0, 0, 0.75);
+    color: #FFFFFF;
+}
+
+p.gallery_label {
+    position: absolute;
+    right: 0;
+    left: 0;
+    bottom: 0;
+    z-index: 2;
+    display: inline-block;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-size: 18px;
+    text-align: center;
+    width: inherit;
+    background-color: rgba(0, 0, 0, 0.75);
     color: #FFFFFF;
 }
 
@@ -569,6 +600,24 @@ a.joinus_with_img {
     align-items: center;
 }
 
+a.gallery_item_img {
+    border-radius: 8px;
+    overflow: hidden;
+    margin: 20px;
+    width: 210px;
+    height: 110px;
+    position: relative;
+    clear: none;
+    display: block;
+    justify-content: center;
+    align-items: center;
+}
+
+a.gallery_item_img:hover, a.gallery_item_img:active {
+    border-radius: 8px;
+    border: solid 2px white;
+}
+
 .zoom_img_container:hover, .zoom_img_container:active {
     overflow: hidden;
     border: solid 2px white;
@@ -584,11 +633,25 @@ a.joinus:hover, a.joinus:active {
     text-decoration: wavy;
 }
 
+a.gallery_item {
+    display: inline-block;
+    margin: 3px;
+}
+
 form > label {
     margin: 5px;
 }
 
 input {
+    border: 2px solid #aaaaaa;
+    margin: 5px;
+    color: #FFFFFF;
+    font-size: 16px;
+    padding: 4px;
+    background-color: rgba(0, 0, 0, 0.8);
+}
+
+form > textarea {
     border: 2px solid #aaaaaa;
     margin: 5px;
     color: #FFFFFF;
