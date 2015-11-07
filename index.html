@@ -2,57 +2,107 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>North Queensland Orchestra</title>
-    <link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Roboto">
+    <title>Barrier Reef Orchestra</title>
     <link rel="stylesheet" type="text/css" href="css/main.css">
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.js"></script>
+    <script src="js/main.js"></script>
 </head>
+
 <body>
-
-<!--/*
-
-Content
--Home
-call to action
-registration
-news
-About us / Info
-Donations
-Contact us
--Events
-upcoming / past events
--Gallery
-Gallery of pictures from past events
--Sponsers
-people who sponser the BRO
--people
-special guest and life time members of the bro
--History
-past history of the BRO listed in years
--Become a player
-Questionare fill out form to become a player
-
-*/
--->
-
-
 <div class="parent">
     <img alt="background_image" src="images/image.jpg" class="blur">
 
     <div class="container">
-        <div>
+
+        <div class="banner_container">
+            <div class="banner">
+                <img class="banner_image" src="data/SiteImages/logo.png">
+
+                <p class="banner_text">
+                    The Barrier Reef Orchestra - A North Queensland Icon
+                </p>
+            </div>
+        </div>
+
+        <div class="tabs_container">
             <ul class="tabs">
                 <li><a class="menu_item" href="index.html" id="current">Home</a></li>
                 <li><a class="menu_item" href="html/events.html">News</a></li>
                 <li><a class="menu_item" href="html/gallery.html">Gallery</a></li>
                 <li><a class="menu_item" href="html/people.html">People</a></li>
+                <li><a class="menu_item" href="html/forms.html">Forms</a></li>
                 <li><a class="menu_item" href="html/supporters.html">Supporters</a></li>
+                <li><a class="menu_item" href="html/contact_us.html">Contact Us</a></li>
                 <li><a class="menu_item" href="html/about.html">About Us</a></li>
             </ul>
         </div>
+
         <div class="content">
+            <div class="contact_info">
+                <div class="contact_info_item">
+                    <p class="audio_text"><b>Try one of our songs</b></p>
+                    <audio controls class="media">
+                        <source src="data/audio/test.mp3" type="audio/mpeg">
+                        Not supported
+                    </audio>
+                </div>
+            </div>
+
+            <div class="pane_parent">
+                <div id="left_pane">
+                    <a class="event"
+                       onclick="window.open('https://au.patronbase.com/_TVCC/Productions/0886/Performances');">
+                        <img class="event_img zoom_img" src="images/MusicalFeast2015.jpg">
+
+                        <p class="overlay_text">
+                            7:30 pm Saturday 7 November at Townsville CivicTheatre <br>
+                            $38 Adult - $34 Concession - Child/student $15 <br>
+                            NQE Member - $32
+                        </p>
+                    </a>
+                </div>
+
+                <div id="right_pane">
+
+                    <a class="joinus zoom_img" href="data/application-form-web.pdf">
+                        Join Us
+                    </a>
+
+                    <a class="joinus_with_img" href="html/forms.html">
+                        <img class="joinus_event_img zoom_img"
+                             src="data/gallery/instruments/Instruments_Horns_107.jpg">
+
+                        <p class="joinus_overlay_text">
+                            Become a benefactor
+                        </p>
+                    </a>
+
+                    <a class="joinus_with_img" href="html/about.html">
+                        <img class="joinus_event_img zoom_img" src="data/gallery/instruments/Background_BRO_056.jpg">
+
+                        <p class="joinus_overlay_text">
+                            About Us
+                        </p>
+                    </a>
+                </div>
+
+            </div>
+            <div class="sponsor_container" id="container">
+                <h2 class="sponsors">Sponsors</h2>
+
+                <div id="sponsors" class="sponsors">
+
+                </div>
+            </div>
         </div>
     </div>
 </div>
 
+<script type="text/javascript">
+    loadSponsors();
+</script>
+
 </body>
+
+
 </html>

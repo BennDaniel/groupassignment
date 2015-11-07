@@ -1,20 +1,95 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8c639ca1-1316-4671-ade1-ab37df8c4c06" name="Default" comment="History added">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/gallery/hotsummernight2008/Icon_" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/gallery/instruments/Icon_" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/gallery/lastnightofproms/Icon_" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/gallery/slavonicswoon/Icon_" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/gallery/hotsummernight2008/Thumbs.db" afterPath="$PROJECT_DIR$/data/gallery/hotsummernight2008/Thumbs.db" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/gallery/instruments/Thumbs.db" afterPath="$PROJECT_DIR$/data/gallery/instruments/Thumbs.db" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/gallery/lastnightofproms/Thumbs.db" afterPath="$PROJECT_DIR$/data/gallery/lastnightofproms/Thumbs.db" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/gallery/slavonicswoon/Thumbs.db" afterPath="$PROJECT_DIR$/data/gallery/slavonicswoon/Thumbs.db" />
+    <list default="true" id="8c639ca1-1316-4671-ade1-ab37df8c4c06" name="Default" comment="Gallery complete, people complete">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/report.html" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/BROabout.htm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/BROcontact.htm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/BROgallery.htm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/BROnews.htm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/BROpastevents.htm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/BROpeople.htm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/BROsupporters.htm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/SiteImages/ACVCnewlogo.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/SiteImages/AFCMlogo.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/SiteImages/BROheader.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/SiteImages/BROheader.psd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/SiteImages/BROpageheader.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/SiteImages/BROpageheader.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/SiteImages/BROpageheader.psd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/SiteImages/BROseahorse.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/SiteImages/Icon_" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/SiteImages/LOGOS.doc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/SiteImages/NQEIlogo.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/SiteImages/TCCcolour150193.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/SiteImages/TCCtext100.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/SiteImages/TCCtext150193.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/SiteImages/TCCtext150193.psd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/SiteImages/TCMC150100.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/SiteImages/TCMCtrans10067.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/SiteImages/Thumbs.db" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/SiteImages/townsville-council-logo.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/audio/death.mp3" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/events/1812.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/events/2015-World-Music-Large.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/events/2015-World-Music.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/events/2015-World-Music.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/events/AFCM01.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/events/HelenLand.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/events/LNAPtitle300.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/events/LNAPtitle500.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/events/Masterworks-A4B.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/events/MasterworksRose300.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/events/MasterworksTitle300.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/events/Masterworksbackground.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/events/TSV Masterworks A7.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/events/TShop300web.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/events/Theatre_2015_World Music Concert_A0.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/events/Thumbs.db" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/events/peter_wolf.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/events/potter01.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/events/sor200.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/index.htm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/random1/Icon_" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/random1/instruments_bassoon.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/random1/instruments_guitar_191.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/random1/instruments_harp_106.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/random1/instruments_horns_107.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/random1/instruments_keyboard_dsc0570.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/random1/instruments_oboe_dsc0422.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/random1/instruments_oboe_dsc0588.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/random1/instruments_sax_dsc9495.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/random1/instruments_strings_257.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/random1/instruments_strings_dsc0375.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/random1/instruments_strings_dsc0587.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/random1/instruments_trumpets.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/random1/instruments_trumpets_tuba_13.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/random1/instruments_violin_dsc0003.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/random1/instruments_violins_88.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/random1/instruments_wind_dsc0377.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/random1/instruments_wind_dsc0424.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/randomhome/Icon_" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/randomhome/background_bro_01.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/randomhome/background_bro_02.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/randomhome/background_bro_03.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/randomhome/background_bro_04.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/randomhome/background_bro_05.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/randomhome/background_bro_06.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/randomhome/background_bro_07.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/randomhome/background_bro_08.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/sponsors/Icon_" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/data/BRO March concert educational resource.pdf" afterPath="$PROJECT_DIR$/data/BRO_March_concert_educational_resource.pdf" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/data/BRO Repertoire.doc" afterPath="$PROJECT_DIR$/data/BRO_Repertoire.doc" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/data/audio/ambient.mp3" afterPath="$PROJECT_DIR$/data/audio/test.mp3" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/home.html" afterPath="$PROJECT_DIR$/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/main.css" afterPath="$PROJECT_DIR$/css/main.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/html/about.html" afterPath="$PROJECT_DIR$/html/about.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/html/events.html" afterPath="$PROJECT_DIR$/html/events.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/html/forms.html" afterPath="$PROJECT_DIR$/html/forms.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/html/gallery.html" afterPath="$PROJECT_DIR$/html/gallery.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/html/people.html" afterPath="$PROJECT_DIR$/html/people.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/html/supporters.html" afterPath="$PROJECT_DIR$/html/supporters.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/main.js" afterPath="$PROJECT_DIR$/js/main.js" />
     </list>
     <ignored path="groupassignment.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -36,12 +111,64 @@
     <favorites_list name="groupassignment" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="gallery.html" pinned="false" current-in-tab="true">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="600">
+      <file leaf-file-name="gallery.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/html/gallery.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.62903225">
-              <caret line="66" column="41" selection-start-line="66" selection-start-column="41" selection-end-line="66" selection-end-column="41" />
+            <state vertical-scroll-proportion="-12.142858">
+              <caret line="55" column="43" selection-start-line="55" selection-start-column="43" selection-end-line="55" selection-end-column="43" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-4.714286">
+              <caret line="6" column="42" selection-start-line="6" selection-start-column="42" selection-end-line="6" selection-end-column="42" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="forms.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/html/forms.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="14.922581">
+              <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="report.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/report.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.41129032">
+              <caret line="20" column="12" selection-start-line="20" selection-start-column="12" selection-end-line="20" selection-end-column="12" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/main.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="278" column="14" selection-start-line="278" selection-start-column="14" selection-end-line="278" selection-end-column="14" />
+              <folding>
+                <element signature="e#20093#22201#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/main.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-4.9761906">
+              <caret line="578" column="0" selection-start-line="578" selection-start-column="0" selection-end-line="578" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -55,6 +182,7 @@
         <option value="JavaScript File" />
         <option value="Html5" />
         <option value="CSS File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -77,7 +205,6 @@
         <option value="$PROJECT_DIR$/M1" />
         <option value="$PROJECT_DIR$/data/BROnews.htm" />
         <option value="$PROJECT_DIR$/test/slick.css" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/test/team.html" />
         <option value="$PROJECT_DIR$/html/banner_toolbar_container.html" />
         <option value="$PROJECT_DIR$/html/facebook_div.html" />
@@ -94,15 +221,18 @@
         <option value="$PROJECT_DIR$/html/events.html" />
         <option value="$PROJECT_DIR$/data/BROpastevents.htm" />
         <option value="$PROJECT_DIR$/html/about.html" />
-        <option value="$PROJECT_DIR$/html/home.html" />
-        <option value="$PROJECT_DIR$/html/forms.html" />
         <option value="$PROJECT_DIR$/html/contact_us.html" />
         <option value="$PROJECT_DIR$/css/galleria.classic.css" />
         <option value="$PROJECT_DIR$/html/people.html" />
         <option value="$PROJECT_DIR$/html/supporters.html" />
         <option value="$PROJECT_DIR$/js/main.js" />
+        <option value="$PROJECT_DIR$/html/home.html" />
         <option value="$PROJECT_DIR$/html/gallery.html" />
         <option value="$PROJECT_DIR$/css/main.css" />
+        <option value="$PROJECT_DIR$/home.html" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/html/forms.html" />
+        <option value="$PROJECT_DIR$/report.html" />
       </list>
     </option>
   </component>
@@ -142,6 +272,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
@@ -213,20 +344,51 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="data" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="groupassignment" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="groupassignment" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="data" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="audio" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="groupassignment" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="groupassignment" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="css" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="aspect.path.notification.shown" value="true" />
     <property name="WebServerToolWindowFactoryState" value="true" />
-    <property name="DefaultHtmlFileTemplate" value="Html5" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -236,19 +398,19 @@
     <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://C:/Users/linde/WebstormProjects/groupassignment/html/forms.html" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\linde\WebstormProjects\groupassignment" />
+      <recent name="C:\Users\linde\WebstormProjects\groupassignment\images" />
+      <recent name="C:\Users\linde\WebstormProjects\groupassignment\js" />
+      <recent name="C:\Users\linde\WebstormProjects\groupassignment\data\people" />
+      <recent name="C:\Users\linde\WebstormProjects\groupassignment\test" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\linde\WebstormProjects\groupassignment\images" />
       <recent name="C:\Users\linde\WebstormProjects\groupassignment\js" />
       <recent name="C:\Users\linde\WebstormProjects\groupassignment\css" />
       <recent name="C:\Users\linde\WebstormProjects\groupassignment\html" />
       <recent name="C:\Users\linde\WebstormProjects\groupassignment\test" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\linde\WebstormProjects\groupassignment\images" />
-      <recent name="C:\Users\linde\WebstormProjects\groupassignment\js" />
-      <recent name="C:\Users\linde\WebstormProjects\groupassignment\data\people" />
-      <recent name="C:\Users\linde\WebstormProjects\groupassignment\test" />
-      <recent name="E:\Uni\CP1406\A2\groupassignment\other" />
     </key>
   </component>
   <component name="RunManager">
@@ -487,7 +649,13 @@
       <option name="project" value="LOCAL" />
       <updated>1446769547477</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="Gallery complete, people complete">
+      <created>1446869595410</created>
+      <option name="number" value="00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1446869595410</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -498,15 +666,13 @@
     <editor active="true" />
     <layout>
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32969153" sideWeight="0.8055556" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18605399" sideWeight="0.8055556" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32965517" sideWeight="0.5012854" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32965517" sideWeight="0.49871466" order="11" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.17212543" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24204244" sideWeight="0.19444445" order="4" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -517,10 +683,13 @@
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Documentation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" x="-201" y="872" width="3026" height="1546" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -549,7 +718,8 @@
     <MESSAGE value="Added banner, tool bar  and load sponsors at the bottom of all pages" />
     <MESSAGE value="minor fixes" />
     <MESSAGE value="History added" />
-    <option name="LAST_COMMIT_MESSAGE" value="History added" />
+    <MESSAGE value="Gallery complete, people complete" />
+    <option name="LAST_COMMIT_MESSAGE" value="Gallery complete, people complete" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
@@ -559,43 +729,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/data/SiteImages/townsville-council-logo.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/SiteImages/TCMCtrans10067.gif">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/SiteImages/logo.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="jar://$APPLICATION_HOME_DIR$/lib/webstorm.jar!/resources/html5-schema/html5/phrase.rnc">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.21870397">
-          <caret line="9" column="16" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/sponsors/ticketshop_logo.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/sponsors/ticketshop_logo.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/sponsors/ACVClogo.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/data/sponsors/cowboys-logo-web.jpg">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -715,76 +848,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/data/BROpastevents.htm">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.2907489">
-          <caret line="201" column="20" selection-start-line="201" selection-start-column="20" selection-end-line="201" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/BROabout.htm">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.2907489">
-          <caret line="351" column="18" selection-start-line="224" selection-start-column="5" selection-end-line="351" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/BROsupporters.htm">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-11.880953">
-          <caret line="72" column="35" selection-start-line="72" selection-start-column="35" selection-end-line="72" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/BROpeople.htm">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="33.785713">
-          <caret line="157" column="14" selection-start-line="157" selection-start-column="14" selection-end-line="157" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/html/about.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="30" column="75" selection-start-line="30" selection-start-column="75" selection-end-line="30" selection-end-column="75" />
         </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/html/events.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/SiteImages/ACVCnewlogo.gif">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/SiteImages/BROpageheader.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/events/2015-World-Music.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/events/2015-World-Music.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/events/Masterworks-A4B.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/events/peter_wolf.gif">
-      <provider selected="true" editor-type-id="images">
-        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/data/gallery/slavonicswoon/2008-BRO-Slavonic-Swoon-17.jpg">
@@ -797,26 +865,11 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/html/forms.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.24193548">
-          <caret line="44" column="17" selection-start-line="44" selection-start-column="17" selection-end-line="44" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/css/galleria.classic.css">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.16935484">
           <caret line="15" column="25" selection-start-line="15" selection-start-column="25" selection-end-line="15" selection-end-column="25" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/html/home.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-10.809524">
-          <caret line="14" column="4" selection-start-line="70" selection-start-column="18" selection-end-line="77" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -832,7 +885,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="2.3847795">
           <caret line="112" column="50" selection-start-line="112" selection-start-column="50" selection-end-line="112" selection-end-column="50" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -852,9 +904,42 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/data/gallery/instruments/Background_BRO_107.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/gallery/instruments/Background_BRO_DSC0683.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/gallery/instruments/Instruments_oboe_DSC0422.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/gallery/instruments/Instruments_Horns_107.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/gallery/instruments/Background_BRO_056.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/gallery.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-12.142858">
+          <caret line="55" column="43" selection-start-line="55" selection-start-column="43" selection-end-line="55" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/js/main.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.41299304">
+        <state vertical-scroll-proportion="0.0">
           <caret line="278" column="14" selection-start-line="278" selection-start-column="14" selection-end-line="278" selection-end-column="14" />
           <folding>
             <element signature="e#20093#22201#0" expanded="false" />
@@ -864,16 +949,40 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/main.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.3431085">
-          <caret line="264" column="9" selection-start-line="264" selection-start-column="9" selection-end-line="264" selection-end-column="9" />
+        <state vertical-scroll-proportion="-4.9761906">
+          <caret line="578" column="0" selection-start-line="578" selection-start-column="0" selection-end-line="578" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/html/gallery.html">
+    <entry file="file://$PROJECT_DIR$/html/events.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.62903225">
-          <caret line="66" column="41" selection-start-line="66" selection-start-column="41" selection-end-line="66" selection-end-column="41" />
+        <state vertical-scroll-proportion="0.024193548">
+          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-4.714286">
+          <caret line="6" column="42" selection-start-line="6" selection-start-column="42" selection-end-line="6" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/forms.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="14.922581">
+          <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/report.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.41129032">
+          <caret line="20" column="12" selection-start-line="20" selection-start-column="12" selection-end-line="20" selection-end-column="12" />
           <folding />
         </state>
       </provider>

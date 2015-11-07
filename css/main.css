@@ -593,6 +593,20 @@ a.joinus {
     color: #ffffff;
 }
 
+a.forms {
+    text-align: center;
+    margin: 20px;
+    padding: 25px;
+    display: inline-block;
+    font-size: 20px;
+    border-radius: 8px;
+    border: solid 2px white;
+    font-weight: bold;
+    background-color: #607D8B;
+    text-decoration: none;
+    color: #ffffff;
+}
+
 a.joinus_with_img {
     border-radius: 8px;
     overflow: hidden;
