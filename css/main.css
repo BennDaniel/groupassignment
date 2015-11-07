@@ -269,6 +269,12 @@ div.history {
     margin: 0 auto 0 auto;
 }
 
+pre.supporters {
+    margin: auto;
+    text-align: center;
+    font-size: 18px;
+}
+
 div.pane_parent {
     min-height: 610px;
     display: flex;

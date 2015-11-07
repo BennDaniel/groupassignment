@@ -43,28 +43,36 @@
             <div class="center">
                 <div id="galleria" class="center">
                 </div>
-
-                <a class="gallery_item_img gallery_item" onclick="switchGallaries()">
-                    <img class="album zoom_img" src="../images/image.jpg">
+                <a class="gallery_item_img gallery_item" onclick="setAlbum(hotsummer);">
+                    <img class="album zoom_img" src='../data/gallery/hotsummernight2008/Hot_Summer_Night-177.jpg'>
 
                     <p class="joinus_overlay_text">
-                        Become a benefactor
+                        Hot Summer
                     </p>
                 </a>
 
-                <a class="gallery_item_img gallery_item" onclick="switchGallaries()">
-                    <img class="album zoom_img" src="../images/image.jpg">
+                <a class="gallery_item_img gallery_item" onclick="setAlbum(instruments);">
+                    <img class="album zoom_img" src='../data/gallery/instruments/Background_BRO_056.jpg'>
 
                     <p class="joinus_overlay_text">
-                        Become a benefactor
+                        Instruments
                     </p>
                 </a>
 
-                <a class="gallery_item_img gallery_item" onclick="switchGallaries()">
-                    <img class="album zoom_img" src="../images/image.jpg">
+                <a class="gallery_item_img gallery_item" onclick="setAlbum(lights);">
+                    <img class="album zoom_img"
+                         src='../data/gallery/lastnightofproms/last_night_of_the_proms_bro_dsc0001.jpg'>
 
                     <p class="joinus_overlay_text">
-                        Become a benefactor
+                        Last Night of Proms
+                    </p>
+                </a>
+
+                <a class="gallery_item_img gallery_item" onclick="setAlbum(slovanic);">
+                    <img class="album zoom_img" src='../data/gallery/slavonicswoon/2008-BRO-Slavonic-Swoon-100.jpg'>
+
+                    <p class="joinus_overlay_text">
+                        Slovanic Swoon
                     </p>
                 </a>
 
@@ -82,62 +90,18 @@
 </div>
 
 <script>
-    var visble = 1;
-
-    var images = [
-        {image: "../data/gallery/hotsummernight2008/Hot_Summer_Night-7.jpg"},
-        {image: "../data/gallery/hotsummernight2008/Hot_Summer_Night-177.jpg"},
-        {image: "../data/gallery/hotsummernight2008/Hot_Summer_Night_17.jpg"},
-        {image: "../data/gallery/hotsummernight2008/Hot_Summer_Night_29.jpg"},
-        {image: "../data/gallery/hotsummernight2008/Hot_Summer_Night_47.jpg"},
-        {image: "../data/gallery/hotsummernight2008/Hot_Summer_Night_88.jpg"},
-        {image: "../data/gallery/hotsummernight2008/Hot_Summer_Night_87.jpg"},
-        {image: "../data/gallery/hotsummernight2008/Hot_Summer_Night-218.jpg"}
-    ];
-
-    var images1 = [
-        {image: "../data/gallery/hotsummernight2008/Hot_Summer_Night-247.jpg"},
-        {image: "../data/gallery/hotsummernight2008/Hot_Summer_Night-223.jpg"},
-        {image: "../data/gallery/hotsummernight2008/Hot_Summer_Night_54.jpg"},
-        {image: "../data/gallery/hotsummernight2008/Hot_Summer_Night_107.jpg"},
-        {image: "../data/gallery/hotsummernight2008/Hot_Summer_Night_47.jpg"},
-        {image: "../data/gallery/hotsummernight2008/Hot_Summer_Night_128.jpg"},
-        {image: "../data/gallery/hotsummernight2008/Hot_Summer_Night_133.jpg"},
-        {image: "../data/gallery/hotsummernight2008/Hot_Summer_Night-218.jpg"}
-    ];
     Galleria.loadTheme('../js/galleria.classic.min.js');
-    Galleria.run('#galleria',
-            {
-                width: 800,
-                height: 600,
-                dataSource: images
-            });
 
-    function switchGallaries() {
-        switch (visble) {
-            case 1:
-                visble = 2;
-                Galleria.run('#galleria',
-                        {
-                            width: 800,
-                            height: 600,
-                            dataSource: images1
-                        });
-                break;
-            case 2:
-                visble = 1;
-                Galleria.run('#galleria',
-                        {
-                            width: 800,
-                            height: 600,
-                            dataSource: images
-                        });
-                break;
 
-        }
-
+    function setAlbum(album) {
+        Galleria.run('#galleria',
+                {
+                    width: 800,
+                    height: 600,
+                    dataSource: album
+                });
     }
-
+    setAlbum(hotsummer);
     loadSponsors();
 
 </script>
